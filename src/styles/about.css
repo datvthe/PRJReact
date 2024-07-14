@@ -1,0 +1,62 @@
+.wrapper_img_about {
+	height: 100%;
+	width: 100%;
+    padding: 0.2rem;
+}
+
+.wrapper_img_about img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+    border-radius: 5px;
+}
+
+.image-gallery-wrapper{
+    width: 100%;
+    height: 70vh;
+    margin-bottom: 5rem;
+}
+
+.section-title {
+    margin-bottom: 30px;
+}
+
+.section-title h4,
+.section-title h5 {
+    color: #ffffff !important;
+    font-weight: 600 !important;
+    line-height: 21px !important;
+    text-transform: uppercase !important;
+    padding-left: 20px !important;
+    position: relative !important;
+    font-family: "Oswald", sans-serif !important;
+}
+
+.section-title h4:after,
+.section-title h5:after {
+    position: absolute;
+    left: 0;
+    top: -6px;
+    height: 32px;
+    width: 4px;
+    background: #e53637;
+    content: "";
+}
+
+.product__item__text {
+    padding-top: 20px;
+}
+
+.product__item__text h5{
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.wrapper_content {
+    padding: 1rem;
+}
+
+.wrapper__introduction {
+    padding-top: 5rem;
+}

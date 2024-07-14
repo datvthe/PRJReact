@@ -1,0 +1,2078 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "anhhung1",
+      "password": "123",
+      "name": "Nam",
+      "Age": "18",
+      "email": "anhhung1@gmail.com",
+      "isAdmin": 1,
+      "image": "7.jpg"
+    },
+    {
+      "id": "2",
+      "username": "anhhung2",
+      "password": "123",
+      "name": "Hung",
+      "Age": "18",
+      "email": "anhhung2@gmail.com",
+      "isAdmin": 0,
+      "image": "9.jpg"
+    },
+    {
+      "id": "3",
+      "username": "anhhung3",
+      "password": "123",
+      "name": "Tuan",
+      "Age": "18",
+      "email": "anhhung3@gmail.com",
+      "isAdmin": 0,
+      "image": "10.jpg"
+    },
+    {
+      "id": "4",
+      "username": "anhhung4",
+      "password": "123",
+      "name": "Linh",
+      "Age": "18",
+      "email": "anhhung5@gmail.com",
+      "isAdmin": 0,
+      "image": "11.jpg"
+    },
+    {
+      "id": "5",
+      "username": "anhhung5",
+      "password": "1234",
+      "email": "anh@gmail.com",
+      "name": "anh",
+      "age": "23",
+      "isAdmin": 0,
+      "image": "12.jpg"
+    },
+    {
+      "id": "6",
+      "username": "anhde",
+      "password": "anhde",
+      "email": "anhde@gmail.com",
+      "name": "anhde",
+      "age": "20",
+      "isAdmin": false,
+      "image": "14.jpg"
+    },
+    {
+      "id": "7",
+      "username": "",
+      "password": "",
+      "email": "",
+      "name": "",
+      "age": "",
+      "isAdmin": 0
+    },
+    {
+      "id": "3193",
+      "username": "vutiendat",
+      "password": "10012003",
+      "email": "vudat470@gmail.com",
+      "name": "vudat",
+      "age": "18"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "categoryName": "Hành động"
+    },
+    {
+      "id": "2",
+      "categoryName": "Hài hước"
+    },
+    {
+      "id": "3",
+      "categoryName": "Ngôn tình"
+    },
+    {
+      "id": "4",
+      "categoryName": "Kinh dị"
+    },
+    {
+      "id": "5",
+      "categoryName": "Viễn tưởng"
+    }
+  ],
+  "story": [
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f49"
+      },
+      "id": "1",
+      "image": "1.jpg",
+      "storyName": "Kẻ Phản Bội",
+      "author": "Dạ Ngọc Minh Anh",
+      "categoryName": "Hành động",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "1/6/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung1",
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 376,
+      "follower": [
+        "anhhung1",
+        "anhhung2"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f4a"
+      },
+      "id": "2",
+      "image": "2.jpg",
+      "storyName": "Ta Làm Tham Quan Các Nàng Lại Nói Ta là Trung Thần",
+      "author": "Thanh Chưng",
+      "categoryName": "Hành động",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "4/5/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung3",
+        "anhhung1",
+        "anhhhung2"
+      ],
+      "totalChap": 5,
+      "views": 510,
+      "follower": [
+        "anhhung2",
+        "anhhung3",
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f4b"
+      },
+      "id": "3",
+      "image": "3.jpg",
+      "storyName": "Mịch Tiên Kiếm Đạo",
+      "author": "Thu Ninh Quân",
+      "categoryName": "Hành động",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "3/2/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 378,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f4c"
+      },
+      "id": "4",
+      "image": "4.jpg",
+      "storyName": "Thiên Hạ Đệ Nhất Thần",
+      "author": "Ss Tần",
+      "categoryName": "Hành động",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "23/6/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 200,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f4d"
+      },
+      "id": "5",
+      "image": "5.jpg",
+      "storyName": "Giang Hồ Khắp Nơi Là Áo Choàng",
+      "author": "Phương Khối Đích Lục Chí Miêu",
+      "categoryName": "Hành động",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung4",
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 464,
+      "follower": [
+        "anhhung5",
+        "anhhung4",
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f4e"
+      },
+      "id": "6",
+      "image": "6.jpg",
+      "storyName": "Kiếm Vực Vô Địch",
+      "author": "Thanh Loan Phong Thượng",
+      "categoryName": "Hài hước",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "13/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 367,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f4f"
+      },
+      "id": "7",
+      "image": "7.jpg",
+      "storyName": "Vạn Cổ Ma Tôn",
+      "author": "Lâm Nhất",
+      "categoryName": "Hài hước",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "10/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 110,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f50"
+      },
+      "id": "8",
+      "image": "8.jpg",
+      "storyName": "Đệ Nhất Tần Tranh",
+      "author": "Hồ Thanh",
+      "categoryName": "Hài hước",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 52,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f51"
+      },
+      "id": "9",
+      "image": "9.jpg",
+      "storyName": "Hậu Duệ Kiếm Thần",
+      "author": "Thanh Phong",
+      "categoryName": "Hài hước",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/7/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 45,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f52"
+      },
+      "id": "10",
+      "image": "10.jpg",
+      "storyName": "Thần Điêu Hiệp Nữ",
+      "author": "Não Tử Không Sát",
+      "categoryName": "Hài hước",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 345,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f53"
+      },
+      "id": "11",
+      "image": "11.jpg",
+      "storyName": "Em Nói Anh Nghe Chuyện Yêu Đương",
+      "author": "Mễ Vy",
+      "categoryName": "Ngôn tình",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/2/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 78,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f54"
+      },
+      "id": "12",
+      "image": "12.jpg",
+      "storyName": "Thì Ra Cậu Ấy Thích Tôi",
+      "author": "Sưu Tầm Nhỏ",
+      "categoryName": "Ngôn tình",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 36,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f55"
+      },
+      "id": "13",
+      "image": "13.jpg",
+      "storyName": "Võ Thành Ti",
+      "author": "Youngs",
+      "categoryName": "Ngôn tình",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "3/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 170,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f56"
+      },
+      "id": "14",
+      "image": "14.jpg",
+      "storyName": "Ước Hẹn Một Đời Vì Nhau",
+      "author": "Chu Tử Nhuệ",
+      "categoryName": "Ngôn tình",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/9/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 425,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f57"
+      },
+      "id": "15",
+      "image": "15.jpg",
+      "storyName": "Hạnh Phúc Là Khi Gặp Được Em",
+      "author": "Hoàng Kim",
+      "categoryName": "Ngôn tình",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 145,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f58"
+      },
+      "id": "16",
+      "image": "16.jpg",
+      "storyName": "Sau Khi Ra Khỏi Viện Tâm Thần",
+      "author": "Vãn An",
+      "categoryName": "Viễn tưởng",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "2/4/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 215,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f59"
+      },
+      "id": "17",
+      "image": "17.jpg",
+      "storyName": "Ta Nuôi Một Ma Quân",
+      "author": "Zhihu",
+      "categoryName": "Viễn tưởng",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "4/12/2018",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 335,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f5a"
+      },
+      "id": "18",
+      "image": "18.jpg",
+      "storyName": "Gương Kia Ngự Ở Trên Tường",
+      "author": "Tòng Hạ",
+      "categoryName": "Viễn tưởng",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "11/4/2019",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung4",
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 34,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f5b"
+      },
+      "id": "19",
+      "image": "19.jpg",
+      "storyName": "Tôi Nghe Thấy Tiếng LÒng Của Sếp",
+      "author": "Hoàng Lân",
+      "categoryName": "Viễn tưởng",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "3/2/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 35,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f5c"
+      },
+      "id": "20",
+      "image": "20.jpg",
+      "storyName": "Ông Xã Là Giáo Sư! Mau Chạy",
+      "author": "Tiểu Phỉ Thúy",
+      "categoryName": "Viễn tưởng",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "10/5/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 135,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f5d"
+      },
+      "id": "21",
+      "image": "21.jpg",
+      "storyName": "Trọng Sinh 80 Chi Ngọt Thê Liêu Nhân",
+      "author": "Bắc Phong Đường",
+      "categoryName": "Kinh dị",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "9/4/2020",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 215,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f5e"
+      },
+      "id": "22",
+      "image": "22.jpg",
+      "storyName": "Nhan Tổng Chúng Ta Kí Hợp Đồng Đi",
+      "author": "Phạm Tuyết TRinh",
+      "categoryName": "Kinh dị",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "21/4/2019",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 315,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f5f"
+      },
+      "id": "23",
+      "image": "23.jpg",
+      "storyName": "Bảo Mẫu Ma Thú",
+      "author": "Giấc Mơ Nhỏ Nhoi",
+      "categoryName": "Kinh dị",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "22/6/2020",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 417,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f60"
+      },
+      "id": "24",
+      "image": "24.jpg",
+      "storyName": "Tỉnh Mộng",
+      "author": "Quỷ Bút Hoàng Thái",
+      "categoryName": "Kinh dị",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "23/6/2022",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 285,
+      "follower": [
+        "anhhung1"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64932eb7e60e47f2ea629f61"
+      },
+      "id": "25",
+      "image": "25.jpg",
+      "storyName": "Âm Nương",
+      "author": "Mộng Linh Kinh Hỷ",
+      "categoryName": "Kinh dị",
+      "discription": "Kẻ Phản Bội kể về một hành tinh song song với Trái Đất, gọi là Thiên Tinh. Nữ chính tên là Tinh Ngân, làm việc cho tổ chức thần bí Vô Ảnh Cung. Sau này cô đi theo và làm việc cho Huyền vương, lấy tên là Ly Thanh.",
+      "postDate": "1/2/2021",
+      "currentChap": 3,
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "totalChap": 5,
+      "views": 65,
+      "follower": [
+        "anhhung1"
+      ]
+    }
+  ],
+  "author": [
+    {
+      "id": "1",
+      "featuredWorks": "Kẻ Phản Bội",
+      "name": "Dạ Ngọc Minh Anh",
+      "DOB": "1/6/1999",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "2",
+      "featuredWorks": "Ta Làm Tham Quan Các Nàng Lại Nói Ta là Trung Thần",
+      "name": "Thanh Chưng",
+      "DOB": "4/5/1998",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "3",
+      "featuredWorks": "Mịch Tiên Kiếm Đạo",
+      "name": "Thu Ninh Quân",
+      "DOB": "3/2/1988",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "4",
+      "featuredWorks": "Thiên Hạ Đệ Nhất Thần",
+      "name": "Ss Tần",
+      "DOB": "23/6/1987",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "5",
+      "featuredWorks": "Giang Hồ Khắp Nơi Là Áo Choàng",
+      "name": "Phương Khối Đích Lục Chí Miêu",
+      "DOB": "11/4/1989",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "6",
+      "featuredWorks": "Kiếm Vực Vô Địch",
+      "name": "Thanh Loan Phong Thượng",
+      "DOB": "13/4/1988",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "7",
+      "featuredWorks": "Vạn Cổ Ma Tôn",
+      "name": "Lâm Nhất",
+      "postDate": "10/4/1899",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "8",
+      "storyName": "Đệ Nhất Tần Tranh",
+      "name": "Hồ Thanh",
+      "DOB": "11/4/1999",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "9",
+      "featuredWorks": "Hậu Duệ Kiếm Thần",
+      "name": "Thanh Phong",
+      "DOB": "11/7/2002",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "10",
+      "featuredWorks": "Thần Điêu Hiệp Nữ",
+      "name": "Não Tử Không Sát",
+      "DOB": "11/4/1899",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "11",
+      "featuredWorks": "Em Nói Anh Nghe Chuyện Yêu Đương",
+      "name": "Mễ Vy",
+      "postDate": "11/2/1989",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "12",
+      "featuredWorks": "Thì Ra Cậu Ấy Thích Tôi",
+      "name": "Sưu Tầm Nhỏ",
+      "DOB": "11/4/1999",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "13",
+      "featuredWorks": "Võ Thành Ti",
+      "name": "Youngs",
+      "DOB": "3/4/2000",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "14",
+      "featuredWorks": "Ước Hẹn Một Đời Vì Nhau",
+      "name": "Chu Tử Nhuệ",
+      "DOB": "11/9/2001",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "15",
+      "featuredWorks": "Hạnh Phúc Là Khi Gặp Được Em",
+      "name": "Hoàng Kim",
+      "DOB": "11/4/2000",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "16",
+      "featuredWorks": "Sau Khi Ra Khỏi Viện Tâm Thần",
+      "name": "Vãn An",
+      "DOB": "2/4/2000",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "17",
+      "featuredWorks": "Ta Nuôi Một Ma Quân",
+      "name": "Zhihu",
+      "DOB": "4/12/2001",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "18",
+      "featuredWorks": "Gương Kia Ngự Ở Trên Tường",
+      "name": "Tòng Hạ",
+      "DOB": "11/4/1999",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "19",
+      "featuredWorks": "Tôi Nghe Thấy Tiếng LÒng Của Sếp",
+      "name": "Hoàng Lân",
+      "DOB": "3/2/1998",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "20",
+      "featuredWorks": "Ông Xã Là Giáo Sư! Mau Chạy",
+      "name": "Tiểu Phỉ Thúy",
+      "DOB": "10/5/1987",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "21",
+      "featuredWorks": "TRọng Sinh 80 Chi Ngọt Thê Liêu Nhân",
+      "name": "Bắc Phong Đường",
+      "DOB": "9/4/1987",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "22",
+      "featuredWorks": "Nhan Tổng Chúng Ta Kí Hợp Đồng Đi",
+      "name": "Phạm Tuyết TRinh",
+      "DOB": "21/4/1999",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "23",
+      "featuredWorks": "BẢo Mẫu Ma Thú",
+      "name": "Giấc Mơ Nhỏ Nhoi",
+      "DOB": "22/6/2000",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "24",
+      "featuredWorks": "Tỉnh Mộng",
+      "name": "Quỷ Bút Hoàng Thái",
+      "DOB": "23/6/1999",
+      "country": "Việt Nam"
+    },
+    {
+      "id": "25",
+      "featuredWorks": "Âm Nương",
+      "name": "Mộng Linh Kinh Hỷ",
+      "DOB": "1/2/2021",
+      "country": "Việt Nam"
+    }
+  ],
+  "comment": [
+    {
+      "_id": {
+        "$oid": "64aae7bf472feda3f69e31cf"
+      },
+      "id": "1",
+      "content": "Đọc chương đầu thôi đã thấy cuốn rồi",
+      "storyId": 1,
+      "username": "anhhung1",
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "timeCreated": "2023/07/10"
+    },
+    {
+      "_id": {
+        "$oid": "64aae888472feda3f69e31d0"
+      },
+      "id": "2",
+      "content": "Có ai mê nữ chính như tôi không ??!!",
+      "storyId": 1,
+      "username": "anhhung2",
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "timeCreated": "2023/07/10"
+    },
+    {
+      "_id": {
+        "$oid": "64aae8d6472feda3f69e31d2"
+      },
+      "id": "3",
+      "content": "Chuẩn luôn đấy bác ơi !!",
+      "replyFor": 1,
+      "username": "anhhung3",
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ],
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "timeCreated": "2023/07/10"
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c6c"
+      },
+      "content": "Truyện này đọc cuốn dã man\n",
+      "storyId": "2",
+      "id": "4",
+      "username": "anhhung2",
+      "dislikes": [
+        "anhhung5"
+      ],
+      "likes": [
+        null,
+        "anhhung1",
+        "anhhhung2"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c6d"
+      },
+      "content": "Truyện hay thế mà ít like thật",
+      "storyId": "2",
+      "id": "5",
+      "username": "anhhung2",
+      "dislikes": [
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung4",
+        "anhhung1",
+        "anhhhung2"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c6e"
+      },
+      "content": "Đọc chương đầu thấy không hay lắm",
+      "storyId": "3",
+      "id": "6",
+      "username": "anhhung2",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c6f"
+      },
+      "content": "hay quá các bác ơi !!!",
+      "storyId": "3",
+      "username": "anhhung2",
+      "id": "7",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c70"
+      },
+      "content": "Có tui bác ơi",
+      "replyFor": 2,
+      "username": "anhhung4",
+      "id": "8",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c71"
+      },
+      "content": "Uk, chuẩn đấy bác",
+      "replyFor": 5,
+      "username": "anhhung3",
+      "id": "9",
+      "dislikes": [
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung4",
+        "anhhung1",
+        "anhhhung2"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c72"
+      },
+      "content": "Hay mà bác",
+      "replyFor": 6,
+      "username": "anhhung4",
+      "id": "10",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c73"
+      },
+      "content": "Truyện chán bỏ mẹ",
+      "storyId": "6",
+      "username": "anhhung2",
+      "id": "11",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c74"
+      },
+      "content": "Đã quá trời",
+      "storyId": "4",
+      "username": "anhhung4",
+      "id": "12",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c75"
+      },
+      "content": "Truyện này hay dã man",
+      "storyId": "4",
+      "username": "anhhung4",
+      "id": "13",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c76"
+      },
+      "content": "Cày được 15 chapter rồi",
+      "storyId": "4",
+      "username": "anhhung4",
+      "id": "14",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c77"
+      },
+      "content": "Chuẩn luôn ạ",
+      "replyFor": 7,
+      "username": "anhhung4",
+      "id": "15",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c78"
+      },
+      "content": "Không hiểu sao luôn đấy",
+      "replyFor": 5,
+      "username": "anhhung4",
+      "id": "16",
+      "dislikes": [
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c79"
+      },
+      "content": "Chắc ít người đọc",
+      "replyFor": 5,
+      "username": "anhhung4",
+      "id": "17",
+      "dislikes": [
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung4",
+        "anhhung1",
+        "anhhhung2"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c7a"
+      },
+      "content": "Hay mà",
+      "replyFor": 4,
+      "username": "anhhung4",
+      "id": "18",
+      "dislikes": [
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c7b"
+      },
+      "content": "chán thật",
+      "replyFor": 11,
+      "username": "anhhung4",
+      "id": "19",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c7c"
+      },
+      "content": "Hơi ảo",
+      "storyId": "9",
+      "username": "anhhung4",
+      "id": "20",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c7d"
+      },
+      "content": "thấy không hay lắm",
+      "replyFor": 7,
+      "username": "anhhung3",
+      "id": "21",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c7e"
+      },
+      "content": "Cùng quan điểm",
+      "replyFor": 6,
+      "username": "anhhung3",
+      "id": "22",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c7f"
+      },
+      "content": "Chả hiểu sao mà mấy đứa bảo hay được",
+      "replyFor": 6,
+      "username": "anhhung3",
+      "id": "23",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c80"
+      },
+      "content": "Ông này bị ảo à",
+      "replyFor": 2,
+      "username": "anhhung3",
+      "id": "24",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c81"
+      },
+      "content": "Chuất luôn",
+      "storyId": "1",
+      "username": "anhhung3",
+      "id": "25",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c82"
+      },
+      "content": "Haha cùng cảnh ngộ",
+      "replyFor": 14,
+      "username": "anhhung3",
+      "id": "26",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c83"
+      },
+      "content": "Được của ló đấy",
+      "storyId": "1",
+      "username": "anhhung4",
+      "id": "27",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c84"
+      },
+      "content": "Công nghiệp vãi",
+      "replyFor": 25,
+      "username": "anhhung4",
+      "id": "28",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c85"
+      },
+      "content": "ahihi",
+      "replyFor": 25,
+      "username": "anhhung4",
+      "id": "29",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c86"
+      },
+      "content": "Lên tiếng tẩy chay đi các bác",
+      "storyId": "6",
+      "username": "anhhung4",
+      "id": "30",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c87"
+      },
+      "content": "Nói được làm được",
+      "replyFor": 30,
+      "username": "anhhung4",
+      "id": "31",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c88"
+      },
+      "content": "Mê mà",
+      "replyFor": 14,
+      "username": "anhhung4",
+      "id": "32",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c89"
+      },
+      "content": "hahaah",
+      "replyFor": 14,
+      "username": "anhhung4",
+      "id": "33",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c8a"
+      },
+      "content": "chán thiệc",
+      "replyFor": 14,
+      "username": "anhhung4",
+      "id": "34",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c8b"
+      },
+      "content": "Cày mấy chap liền rồi",
+      "replyFor": 7,
+      "username": "anhhung4",
+      "id": "35",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c8c"
+      },
+      "content": "hehe",
+      "replyFor": 7,
+      "username": "anhhung4",
+      "id": "36",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c8d"
+      },
+      "content": "Woa, được đấy",
+      "storyId": "5",
+      "username": "anhhung4",
+      "id": "37",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c8e"
+      },
+      "content": "lại chả khôg",
+      "replyFor": 37,
+      "username": "anhhung4",
+      "id": "38",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64af80f8ca5b72e463531c8f"
+      },
+      "content": "Ác",
+      "storyId": "5",
+      "username": "anhhung4",
+      "id": "39",
+      "dislikes": [
+        "anhhung4",
+        "anhhung5"
+      ],
+      "likes": [
+        "anhhung1",
+        "anhhhung2",
+        "anhhung3"
+      ]
+    },
+    {
+      "content": "ghee",
+      "storyId": "1",
+      "username": "anhhung1",
+      "likes": [],
+      "dislikes": [],
+      "id": "40"
+    },
+    {
+      "content": "phee",
+      "replyFor": 40,
+      "username": "anhhung1",
+      "likes": [],
+      "dislikes": [],
+      "id": "41"
+    },
+    {
+      "content": "Hello",
+      "storyId": "3",
+      "username": "anhhung2",
+      "likes": [],
+      "dislikes": [],
+      "id": "42"
+    }
+  ],
+  "chapter": [
+    {
+      "id": "1",
+      "storyId": 1,
+      "chapterName": "Chapter 1",
+      "content": "Tiếng vó ngựa \"rầm rầm\" xé gió lao nhanh về phía căn nhà hoang, bên trong có mười thích khách đang lục soát. Chợt thủ lĩnh trong nhóm thích khách kêu lên: \"Không xong! Mắc bẫy rồi!\" Đàn ngựa chạy rầm rập mau chóng vây quanh căn nhà, đứng đầu là ba gã cao to cưỡi ba con ngựa chiến màu đen. Kèm theo đó là những tiếng hò hét vang dội như thay tiếng cồng chiêng nhằm phô trương uy thế của đám người ngựa ở phía sau. Nhận thấy mình bị bao vây khó mà chạy thoát, thủ lĩnh thích khách lập tức hô to: \"GIẾTTT!\" Ngay sau đó, mười thích khách đang bị đàn ngựa bao vây lập tức rút kiếm đánh thẳng về phía trước, cố mở một đường máu dù lòng biết chắc lần này khó tránh khỏi cửa tử. Trên mặt mỗi thích khách đều đằng đằng sát khí, tất cả đồng thanh thét lớn: \"GIẾTTTTTTTTT!\" Đàn ngựa lập tức thu hẹp vòng tròn lại, vài tên cưỡi ngựa tách khỏi vào tròn, lao vào tấn công mười thích khách từ hai cánh trái - phải. Thủ lĩnh thích khách, nhảy lên chém đứt đầu một tên cưỡi ngựa vừa lao tới trước mặt mình. Một tên cưỡi ngựa khác từ phía bên phải lao tới, tay hắn cầm búa gắn mũi dao nhọn, đập thẳng vào sườn thủ lĩnh thích khách. Một thích khách khác từ đằng sau nhanh chóng lao lên, chém đứt tay của kẻ cầm búa kia. Bên trái, có bốn con ngựa đang xông tới chỗ mười sát thủ. Một thích khách dùng hai tay hai kiếm lao ra cắt yết hầu bốn con ngựa. Bốn con người hoảng loạn một hồi rồi ngã xuống, có bốn kẻ mặt mày dữ tợn nhảy xuống đất. Một tên trong số đó khi vừa nhảy xuống đất liền trúng luôn một mũi dao đâm thẳng vào giữa trán khiến hai mắt hắn mở to, miệng hắn ngáp ngáp, vẻ mặt không cam tâm, giống như kẻ vừa bước lên sân khấu đã diễn xong vai. Ba tên còn lại có dáng người cao to tiến tới chỗ mười thích khách. Trong số đó, có một tên vừa chạy vừa vung búa xoay vòng tròn như đang vẫy cờ nhảy múa. Có một tên lại quay chùy xích trên tay tạo thành một tấm lá chắn. Trong lúc hắn đang lao tới tấn công thích khách dùng hai kiếm, vì không chú ý nên chùy xích của hắn đã vài lần đập vào hai gã đồng đội. Tên còn lại sử dụng roi đinh. Hắn nhân lúc thích khách dùng hai kiếm đang bận đối phó với hai gã đồng đội của mình liền lẻn ra phía sau, dùng roi đinh quất mạnh vào thích khách."
+    },
+    {
+      "id": "2",
+      "storyId": 1,
+      "chapterName": "Chapter 2",
+      "content": "Trời đêm mưa tầm tã suốt ba ngày, Tinh Ngân tỉnh lại phát hiện mình đã trôi dạt vào bờ ở phía dưới chân núi. Lúc này trời đang là hoàng hôn, cô cố gắng bò dậy, lại thấy hai mắt hoa lên, nhìn không thấy rõ. Cô chỉ đành dùng hết sức mình, dùng hai bàn tay cào trên đất, cố cách xa dòng nước rồi thu người cuộn tròn. Cơ thể Tinh Ngân lúc này vừa nóng vừa lạnh, đầu nặng nề ong ong, khó nhọc cử động. Cô xoay người đối mặt với bầu trời đêm, để mặc gió mưa tạt vào mặt, thân thể ướt sũng. Tinh Ngân cười, có lẽ lần này cô sẽ không cần phải khổ sở sống tiếp nữa. \"Lách tách...\" \"Lách tách...\" Mưa rơi nặng hạt không ngừng. Tinh Ngân nhắm mắt, tiếng ù ù ngày một rõ rệt bên tai. Dù là lúc tỉnh hay mê, cô đều không cách nào mở nổi mắt, cơ thể nằm bất động như người sắp chết. Không biết đã qua bao lâu, cô mơ hồ nghe thấy tiếng vó ngựa càng lúc càng lớn. Cô thầm nghĩ: bọn chúng đuổi tới rồi ư? \"Rầm rầm.\" \"Rầm rầm.\" \"Y...!hý...!hý...!hýý\" Tiếng ngựa hý vang lên bên tai tai cô. Sau đó, một âm thanh vang lên: \"Vương gia, ở đây có người!\" Tiếng bước chân của đàn ngựa dừng lại, không gian bỗng chốc trở nên thật yên tĩnh. Tinh Ngân cảm thấy như có ai đó đang nhìn mình, cô không sao mở mắt được, cũng không cử động được, chỉ biết mấp máy môi không ngừng lên cứu. Nhưng dù cô kêu bao nhiêu lần thì chính cô còn không nghe thấy được. Tiếng một người bất chợt cất lên phá vỡ bầu yên tĩnh ngắn ngủi: \"Không quản!\" Ngay sau đó, tiếng bước chân ngựa dồn dập vang lên và xa dần. \"Rầm rầm...\" \"Rầm rầm...\" Trời mưa tầm tã, Tinh Ngân cả người ướt sũng, hai mắt nhắm nghiền, chẳng mấy chốc đã rơi vào trạng thái mê sảng. \"Phi Ảnh? Phi Ảnh, Phi Ảnh...\" \"Sư phụ?\" \"Có ai không?\" \"Phi Ảnh!\" \"Sư phụ!\" \"Yên Thanh...\" \"Phi Yến...\" \"Có ai không?\" Tinh Ngân thấy mình đứng ở một nơi rất tối, trong vô thức cô gọi tên những người mình có thể nhớ tới lúc này."
+    },
+    {
+      "id": "3",
+      "storyId": 1,
+      "chapterName": "Chapter 3",
+      "content": "Gió thổi qua rèm cửa, trong phòng không một ánh đèn, Tinh Ngân nằm trằn trọc trên giường, cơ thể cô gần đây thường xuyên đau buốt, rã rời, tinh thần mệt mỏi không thôi. Cô đã từng đơn thương độc mã giết chết biết bao nhiêu người, cũng từng cùng đồng đội làm nhiệm vụ không biết bao nhiêu lần nhưng lần này lại là lần thất bại thê thảm nhất. Chỉ trong một ngày, tổ đội mười sát thủ xuất sắc của Vô Ảnh Cung, chín người ngã xuống, chỉ còn một mình cô. Chuyện này chỉ có thể là nội bộ tiết lộ thông tin ra ngoài...! Tinh Ngân xoay nghiêng vào trong giường, cô co người lại nhớ tới câu nói của Cung chủ Vô Ảnh Cung: \"Tinh Ngân, ta đối với ngươi không bạc phải không?\" Bất giác, Tinh Ngân sờ lên vết sẹo nổi trên tay trái. Năm đó, cô cùng Đồng Dao, một người bạn từng nhiều lần chiến đấu cùng cô, khắc hình đồng tâm kết lên một miếng bạc, nung nóng rồi dán lên người. Tinh Ngân vuốt ve vết sẹo, mỉm cười ấm áp. Cô giơ bàn tay lên ngắm năm ngón tay trong bóng tối rồi ngây người. Đến tận thời khắc cuối cùng, chín người nằm trên đất, cô chỉ biết được mỗi tên của một người, thậm chí cả khuôn mặt của những người đó cô cũng chưa từng thấy qua. Họ là những sát thủ bịt mặt, có nhiều những người bịt nhiều đến nỗi không nhớ rõ nổi mặt của chính mình. Ở Kiếm Vũ Bộ - phân nhánh sát thủ của Vô Ảnh Cung, mọi người thường bịt mặt hoặc dùng mặt nạ hoặc dùng cả hai để giấu đi mặt thật của chính mình. Đa số sát thủ chỉ lộ mặt thật với người họ thật lòng tin tưởng hoặc khi đã rời khỏi Vô Ảnh Cung. Khi đã rời Vô Ảnh Cung, họ trở lại với mặt thật, không ai biết họ là ai. Trên đời này, chửa hoang không thiếu, bỏ con không thiếu, cô nhi nhiều vô kể. Vô Ảnh Cung không thiếu sát thủ, thậm chí là có rất nhiều nữ sát thủ. Dù những sát thủ ấy là nam hay nữ, đa số họ sinh ra đã là cô nhi, sự xuất hiện của họ không ai mong đợi, sống không ai biết mặt thật, chết không người biết tên. Tinh Ngân nhắm mắt nhớ lại đêm trước khi trận chiến xảy ra. Suốt thời gian tổ đội, có một sát thủ thường ngồi cạnh cô, hai người cũng chẳng nói gì. Đêm cuối, trước khi tổ đội mười người đến nơi có mục tiêu để hành thích, người đó nói: \"Sau lần nhiệm vụ này chưa chắc chúng ta đã gặp lại, cho dù có may mắn cộng tác cũng không biết mặt. Tôi là Tiếu Khanh.\" \"Tiếu Khanh? Vĩnh Danh song cầm?\" \"Vốn dĩ diễn vai tài tử phong lưu ở Vĩnh Danh, không ngờ lại được các cô nương ái mộ tiếng đàn đến vậy.\" \"Vĩnh Danh song cầm, Tiếu Khanh điểm đàn như thần y cứu thế, Giang Triều tấu khúc ý chí chìm u mê.\" \"Ha ha, mọi người phóng đại thôi.\" \"Tôi từng đến Vĩnh Danh làm nhiệm vụ, từng chờ đêm nhạc hội, xem hai người đánh đàn...!Tôi tên Tinh Ngân.\" \"Cô chính là người tay không giật đứt đầu thủ lĩnh bang Dạ Đề?\" \"Tin đồn thôi.\" \"Hắn rất mạnh, làm sao cô giết được.\" \"Trong bang hắn có một kẻ bất mãn, hắn và thủ hạ đánh nhau. Tôi nhân lúc hắn suy yếu, từ phía sau nắm lấy đầu hắn, đổ người hắn về phía đao của tên thủ hạ.....\" \"Nhỡ như trượt tay...\"."
+    },
+    {
+      "id": "4",
+      "storyId": 2,
+      "chapterName": "Chapter 1",
+      "content": "\"Trẫm xem Lâm Bắc Phàm phẩm học giỏi nhiều mặt, tài đức vẹn toàn, tại thi đình bên trong độc chiếm vị trí đầu, là một vị hiếm có rường cột chi tài! Cho nên trẫm phong Lâm Bắc Phàm làm năm nay tân khoa trạng nguyên!\" Rộng rãi trang nghiêm trên Kim Loan điện, vang lên một cái uy nghiêm giọng nữ. \"Tạ chủ long ân!\" Lâm Bắc Phàm cất cao giọng nói. Trong lòng cuồng hỉ không thôi! Cố gắng ba năm, cuối cùng đã tới thu hoạch thời điểm! Hắn nhưng thật ra là một cái người xuyên việt, ba năm trước đây xuyên việt đến cái này một cái nguy hiểm trùng điệp cao võ thế giới, trói chặt một cái hệ thống. Hệ thống nói cho hắn biết, chỉ có làm quan, hệ thống công năng mới sẽ mở ra. Hệ thống khởi động về sau, liền có thể phụ trợ hắn nhanh chóng trở nên mạnh mẽ. Sau đó, vì ở cái này nguy hiểm thế giới làm ở trong có chỗ đứng, đồng thời cũng vì mở ra hệ thống, Lâm Bắc Phàm hăng hái đọc sách. Vẻn vẹn chỉ dùng thời gian ba năm, liền trúng liền tam nguyên, trở thành tân khoa trạng nguyên! Trở thành tân khoa trạng nguyên, cũng liền mang ý nghĩa hắn có thể làm quan! Cho nên, hắn cao hứng phi thường, không kịp chờ đợi trong lòng nói: \"Hệ thống, có phải hay không cái kia khởi động?\" \"Đinh! Kí chủ đã đạt thành hệ thống khởi động điều kiện, hệ thống chính thức khởi động!\" \"Đinh! Kí chủ ngươi tốt, siêu cấp tham quan hệ thống phục vụ cho ngươi!\" \"Siêu cấp tham quan hệ thống?\" Lâm Bắc Phàm tâm lý dâng lên dự cảm không tốt: \"Hệ thống, ngươi sẽ không để cho ta làm tham quan a?\" \"Đinh! Kí chủ lý giải vô cùng đúng chỗ, bản hệ thống cũng là phụ trợ kí chủ trở thành một tên siêu cấp cự tham!\" \"Chỉ cần kí chủ ở nhiệm kỳ ở giữa, tham càng nhiều, hệ thống khen thưởng liền càng phong phú! Có lại không giới hạn trong thực lực, công pháp các loại, trở thành Lục Địa Thần Tiên, hoặc là siêu việt Lục Địa Thần Tiên đều không là giấc mơ!\" Lâm Bắc Phàm nghiến răng nghiến lợi: \"Đáng chết hệ thống, đây là muốn giết chết ta nha!\" Nói thật, ở cái thế giới này làm quan là một kiện chuyện vô cùng nguy hiểm, nhất là làm tham quan! Bởi vì đây là một cái cao võ thế giới, thực lực cường đại võ giả nhiều lắm! Hiệp chi dùng võ phạm cấm, có một chút thực lực võ giả, đều không đem làm quan để vào mắt! Nhất là tham quan, hận không thể giết cho sướng!"
+    },
+    {
+      "id": "5",
+      "storyId": 2,
+      "chapterName": "Chapter 2",
+      "content": "Tiểu quan viên ngẩng đầu lên, chấn kinh nhìn lấy Lâm Bắc Phàm. Tuyệt đối nghĩ không ra, đối phương trong miệng thế mà nói lời như vậy! Muốn tham liền tham lớn! Đem số lẻ cho bệ hạ! Còn lại bọn họ phân! Đây là cỡ nào cả gan làm loạn một câu nha! Hắn làm quan hơn 20 năm qua, thanh niên tài tuấn thấy qua không ít, tham quan ô lại cũng gặp không ít, cho tới bây giờ liền chưa từng gặp qua lớn gan như vậy bao thiên một người! Chính mình ăn thịt, cho hoàng đế bệ hạ ăn canh, đây là không biết chữ \"Chết\" viết như thế nào! Nếu như bị điều tra ra, tuyệt đối đầu người rơi xuống đất! \"Triệu đại nhân, ngươi thế nào?\" Lâm Bắc Phàm cười híp mắt hỏi một câu: \"Nếu như ngươi không nói lời nào, ta coi như ngươi chấp nhận!\" Tiểu quan viên dọa đến toàn thân run rẩy: \"Không, ta không có ngầm thừa nhận!\" \"Không có ngầm thừa nhận ngươi ngược lại là nói chuyện nha!\" \"Lâm đại nhân, ngươi nhìn, 200 vạn lượng có phải hay không nhiều lắm? Nếu như bị điều tra ra sẽ rơi đầu!\" Cái kia tên quan viên thận trọng nói: \"Ngươi nhìn, 50 vạn lượng được hay không? Lại nhiều mà nói sẽ rất nguy hiểm!\" Lâm Bắc Phàm vô cùng bất mãn: \"50 vạn lượng sao đủ a? Cùng mọi người một phần, tiến ta hầu bao cũng liền 30 vạn lượng! Cái này kinh thành tấc đất tấc vàng, muốn mua một gian tốt tòa nhà đều muốn mấy vạn lượng, không đủ dùng a!\" \"Thế nhưng là quá tham, thật không được a. . .\" Tiểu quan viên dọa đến toàn thân mồ hôi đều xuất hiện. \"Bớt nói nhảm, ta chỉ hỏi ngươi một câu, muốn hay không?\" \"Hạ quan từ bỏ, hạ quan từ bỏ, mời đại nhân tha ta một mạng đi!\" Đối phương liền vội vàng nói, cái này một khoản tiền hắn một phần cũng không dám muốn, hắn sẽ bị Lâm Bắc Phàm liên lụy chết. \"Hừ, nhát như chuột! Ngươi không muốn ta muốn!\" Lâm Bắc Phàm nhận lấy sổ sách, xé toang vài trang giấy về sau, đem phía trên con số đổi thành 20 vạn, sau đó còn trở về. \"Dạng này liền đại công cáo thành!\" Lâm Bắc Phàm hài lòng nhẹ gật đầu, trừng vị này tiểu quan viên liếc một chút: \"Chuyện này liền xem như không biết, cẩn thận ta đem ngươi khai ra đi, mọi người cùng nhau xong đời!\" \"Là. . . Lâm đại nhân!\" Tiểu quan viên vẻ mặt đau khổ, như cha mẹ chết. Lâm Bắc Phàm đi trở về, đem lượng rương tràn đầy châu báu cái rương hợp tới, kêu một tiếng."
+    },
+    {
+      "id": "6",
+      "storyId": 2,
+      "chapterName": "Chapter 3",
+      "content": "Lâm Bắc Phàm hiện tại liền ở vào cái này một cái cấp bậc, thất phẩm đỉnh phong! Mạnh hơn phổ thông Hậu Thiên cường giả, nhưng là so Tiên Thiên cường giả lại kém một bậc, ở vào nửa Tiên Thiên trạng thái. Chủ yếu vẫn là bởi vì hắn dung hợp Trấn Nam Vương thế tử khuôn mẫu. Hắn dưới cơ duyên xảo hợp tu được 《 Bắc Minh Thần Công 》 《 Lăng Ba Vi Bộ 》 chờ thần công, đồng thời thu hoạch được một thân hùng hậu nội lực, thật có thể nói là là hồng phúc tề thiên. Nhưng là, bản thân hắn cũng không thích võ công, từ nhỏ chưa từng học qua võ. Cho nên, võ công học được thưa thớt, cơ sở không tốn sức, làm hại hắn cũng bị liên lụy. Không phải vậy, hắn khả năng lại tiến cấp một, thành là chân chính Tiên Thiên cường giả! \"Được rồi, chiếm được là nhờ vận may của ta mất đi là do số mệnh của ta! Trấn Nam Vương thế tử khuôn mẫu có thể nói tính so sánh giá cả phi thường cao một cái khuôn mẫu, nắm giữ tam đại thần công, còn có một thân hùng hậu nội lực! Chỉ phải thật tốt tu luyện, có cơ hội tu luyện tới Tiên Thiên đỉnh phong!\" \"Lại nói, về sau còn có cơ hội dung hợp những cường giả khác khuôn mẫu!\" \"Bất quá cái này một đợt, ăn đầy đủ mập, đáng giá!\" Lâm Bắc Phàm cao hứng phi thường. Hắn không ái tài, nhưng là tiếc mệnh. Tại cái này một cái sắp đại loạn cao võ thế giới bên trong, không có có võ công bạn thân là rất nguy hiểm! Cho nên hắn mới bốc lên mất đầu nguy hiểm, tham phía dưới 200 vạn! Bây giờ xem ra, hết thảy đáng giá! Nắm giữ 7 phẩm đỉnh phong vũ lực, mặc dù nói không có vô địch, nhưng là chỉ không được tội Tiên Thiên lấy trở lên cường giả, cái kia liền có thể sống được rất thoải mái. Cùng lắm thì cũng là chạy mà! Hắn nắm giữ 《 Lăng Ba Vi Bộ 》 cái này đỉnh cấp khinh công, am hiểu nhất chạy trốn! Tông Sư trở xuống, nghỉ muốn đuổi theo hắn! Cho nên, nỗ lực phấn đấu ba năm, hắn rốt cục ở cái thế giới này bên trong có sức tự vệ! Lâm Bắc Phàm từ trên giường nhảy xuống tới, mở ra 2 cái rương, trong rương kim ngân tài bảo thả ra hao quang lộng lẫy chói mắt, khiến người ta hận không thể đoạt chi. Ngoài cửa sổ bóng trắng híp mắt lại, xem ra tình báo không lầm. Lâm Bắc Phàm, thật tham ô 200 vạn lượng vàng bạc châu báu. Tiểu quan, cự tham!"
+    },
+    {
+      "id": "7",
+      "storyId": 3,
+      "chapterName": "Chapter 1",
+      "content": "Thiên Hoang đại lục Đại Nam QuốcHải Vân sơn mạchTà dương chiếu xuống đại địa , toàn bộ thiên địa bắt đầu chuyển đổi , hắc bạch giao nhau .Tại một dòng suối đang chảy róc rách , một thiếu niên tầm mười hai mười ba tuổi đang lấy một cành cây vuốt nhọn , mặc trên người vải thô chấp vá lung tung .Trong đôi mắt cất chứa thương cảm , bất đắc dĩ cùng kiên nghị .*Phốc* Một con cá nhỏ bị hắn dùng cành cây ghim lấy đem lên bờ , lại tiếp tục xuống nước .\" chỉ có một con phải bắt thêm ít nhất một con nữa ,nếu không tối nay nhị muội tam đệ muốn chịu đói rồi \"Lê Hạo nỉ non một tiếng, ánh mắt loé lên ánh sáng nỗi lên một tia đấu chí .Thiếu niên này Gọi Lê Hạo gia ở Minh Nam Thành gia tộc kinh thương dược tề cũng coi như gia cảnh phú quý , nếu như không có hơn hai năm trước, Bắc đại lục Đại Bắc Quốc Đánh đến Minh Nam Thành vào thành cướp bóc , hai quốc bắc nam từ khai quốc đánh đến bây giờ tích sâu hận thù nước sông hoàng hà cũng khó tẩy sạch .Hai quốc giao chiến khổ vẫn là bá tính , dẫn đến gia tộc mấy trăm tộc nhân Lê Hạo chỉ còn hắn cùng đệ đệ muội muội còn sống, may mắn hắn cùng nhị muội cùng tam đệ hắn đang đi chơi ngoài thành , đến khi mệt mỏi trở về mới thoát chết ,khi về đến thành chỉ thấy khắp nơi ánh lửa , thi thể , đem thi thể phụ mẫu chôn cất về sau hắn liền dắt theo đệ muội trốn chết , còn những thi thể người khác hắn cũng không có cách nào chôn từng người , liền đem cả thành đều đốt coi như mai táng cho bọn hắn .Hai Quốc giao chiến lại thêm sơn tặc thổ phỉ hoành hành cướp bóc khắp nơi, bang phái cắt cứ xưng hùng. Tuổi nhỏ Tai nạn kể từ đó Lê Hạo dẫn theo đệ đệ , muội muội tám tuổi thê thảm trốn chết hành trình bởi vì chiến tranh quân đội cũng như cường đạo ah, mới đó đã được hai năm .Dọc đường đói bụng chỉ cần có thể ăn cỏ dại hắn cũng nuốt để sống .Có một ngày lúc hắn bắt được một con thỏ chuẩn bị nướng thì những kẻ chạy nạn khác cướp đi , còn cho hắn thêm một trận đánh đập tàn nhẫn , năm tháng trước hắn mò được hai mươi văn tiền từ thi thể người chết, cũng như lần trước hắn bị một trận đánh đập tàn nhẫn, kể từ hôm đó hắn hiểu thứ tốt không để lộ bên ngoài trừ khi ngươi có thực lực bảo hộ. Lại có một lần hắn thấy một thanh niên trên lưng vác kiếm , chém chết một nhóm dân chạy nạn , cướp con gái của nhóm dân đó , Lê Hạo rốt cuộc minh bạch loạn thế nhân mạng như rơm rác không đáng một đồng a, chỉ có quyền đầu mạnh mới có vốn liếng sống trong loạn thế này , nghe nói Nguyên Châu thành có môn phái giang hồ tuyển nhận đệ tử , đãi ngộ vô cùng tốt cẩm y ngọc thực , được học tập võ công , nghe ngóng đường đi xong, liền dứt khoát dẫn đệ đệ muội muội chạy xuyên qua Hải Vân sơn mạch tới Nguyên Châu Thành."
+    },
+    {
+      "id": "8",
+      "storyId": 3,
+      "chapterName": "Chapter 2",
+      "content": "Kể từ ngày hắn chứng kiến tên võ giả thanh niên Lê Hạo liền quyết tâm thành một võ giả , biến bản thân càng thêm cường đại , mới có thể sống trong loạn thế này .Cửa thành ,không có gì nghiêm khắc kiểm tra , rất nhanh Lê Hạo thuận thuận lợi lợi vào thành, vừa vào thành hắn phát hiện cùng bên ngoài bất đồng , trên đường lớn dòng người đông đúc , mỗi người quần áo đẹp đẽ phú quý , bốn phía âm thanh rao hàng để Lê Hạo một hồi kinh ngạc , Minh Nam Thành của hắn chỉ là cái tiểu thành cùng cái trấn cũng không sai biệt lắm , bao giờ thấy tràng cảnh như vậy , hồi lâu sau bốn phía ánh mắt khinh miệt nhìn hắn , Lê Lân cùng Lê Hi Tuyết sợ hãi rúc vào người hắn khiến cho hắn phục hồi tinh thần .\" Aizz vẫn là còn quá non ah\" Lê Hạo trong lòng nói thầm , tự trách bản thân biểu hiện như một đứa bé đồng dạng , nhưng hắn quên mất thật ra thì hắn vẫn còn là một đứa bé theo đệ muội chạy nhanh đến thành tây hẻo lánh không người , phát hiện một cái miếu hoang để hai tiểu chút chít ở lại , hắn bắt đầu chạy ngược lại đi thám thính tin vào môn phái , phải nghe ngóng môn phái tin tức , mà ở tin tức ở đâu dễ nghe ngóng nhất tự nhiên là tửu lâu , tam giáo cửu lưu người gì cũng có .Vũ Liên tửu lâu , Lê Hạo đứng sát vách tường , vểnh lỗ tai nghe âm thanh ầm ĩ đàm tiếu bên trong tửu lâu , khách nhân ra ra vào vào. Lê Hạo đứng ba canh giờ mới nghe được tin tức hữu dụng .\" Lâm Hiên, nhà ngươi tiểu tử năm nay mười hai tuổi tuổi rồi ah, bị loại hai lần rồi ah, năm ngày sau Lam Vân Môn tuyển nhận đệ tử , con ngươi phải cố gắng ah .\"\" không cần ngươi lo lắng , vẫn là lo tiêu tử nhà ngươi được rồi. hết ăn lại nằm không biết có đủ sức chạy lên núi không ah.\"\" aizz năm nay không biết có bao nhiều người có phúc khí vào được môn phái , học võ nghệ\"Nghe xong tin tức hữu dụng cũng đã không cần thiết ở lại , quay người rời đi .Lê Hạo mua ba cái bánh bao , một xiên hồ lô ngào đường , cùng ba bộ vải thô áo đuôi ngắn, liền quay lại miếu hoang , mặt dù hắn lang bạc cất dấu được gần một lượng bạc , nhưng cũng không thể tiêu hoang phí, còn phải chờ thêm năm ngày , nhiêu đây ngân lượng chỉ đủ để ba huynh muội bọn hắn sống đến môn phái khai sơn thu đệ tử .Đi trên đường vừa đi Lê Hạo vui vẻ thầm nghĩ\" Kẹo Hồ lô cho muội muội sẽ rất vui mừng ah , rất lâu Tuyết nhi chưa được ăn rồi , sắc trời sắp tối phải về không thể cho bọn hắn lo lắng đi loạn rất khó tìm."
+    },
+    {
+      "id": "9",
+      "storyId": 3,
+      "chapterName": "Chapter 3",
+      "content": "Bất tri bất giác Lê Hạo ba huynh muội cũng đã tới sườn núi , Nội tâm không hiểu sinh ra một loại cảm xúc cảnh giác cùng cẩn thận , loại này cảm xúc về sau nhưng cứu mạng hắn mấy lần .Dưới chân núi nói chuyện lão giả đứng ở sườn núi không nhúc nhích , phía sau hắn đã có hơn một trăm cái thiếu niên , Lê Hạo kéo lấy thân thể mệt mỏi cùng Hi Tuyết , Lê Lân đến sau lưng lão giả ngồi bệt xuống bắt đầu thở hỗn lúc sắp hết thời gian , Lê Hạo hơi thở cũng bình thường trờ lại , chợt nghe lão giả thanh âm :\" Phế vật , lâu như vậy còn không đến nỗi sườn núi , học võ quan trọng nhất là chịu khổ , chút ít khổ cũng không chịu được đúng là phế vật , đem hết người vẫn chưa lên tới đuổi hết cho ta \"Lê Hạo nghe được trong lòng thầm kêu may mắn khá tốt còn kịp thời gian, sau đó Lê Hạo đứng dậy lôi kéo Hi Tuyết , Lê Lân đứng sau mọi người. Lão già xoay người ánh mắt như kiếm , các thiếu niên đều cuối đầu xuống , mấy câu vừa nói phảng phất như chỉ cây dâu mắng cây hoè , ám chỉ bọn một trăm thiếu niên được an bài xong xuôi nghỉ ngơi. Buổi tối , trên núi trong phòng , Lê Hạo cùng Hai cái tiểu chút chít đều hưng phấn khó ngủ , phấn khởi thảo luận về sau giang hồ sinh hoạt .Đêm khuya , Cùng Lê Lân , Lê Hi Tuyết náo nhiệt mội hồi rốt cuộc đuổi được bọn hắn đi Hạo dựa vào cửa sổ , ngoài cửa sổ là đầy trời sao , lấp loé chiếu sáng. Lê Hạo nhớ tới khi còn bên phụ mẫu sinh hoạt , nhớ tới hơn hai năm lang thang sinh hoạt từng chuyện. Cuối cùng đối với tương lai kỳ vọng bất tri bất giác ngủ rồi , khoé miệng còn mang một vòng mĩm cười .Hôm sau , trời vừa sáng , Lê Hạo các thiếu niên đã bị đánh thức ăn điểm tâm. Cơm nước xong xuôi về sau một cái thanh niên mặc ngoại môn đệ tử áo bào dẫn đi .Trên đường , một cái thiếu niên bước lại gần thanh niên ôm quyền , nịnh nọt : \" Tiểu đệ Diệp Trí kính xin đại ca nhiều hơn chiếu cố ah.\" Chứng kiến Diệp Trí trên mặt nịnh nọt , thanh niên không thích nhưng vẫn ôm quyền nói : \" khách khí ,khách khí ..\" hai người bắt đầu trò người nói cũng không cố ý đè thấp thanh âm , Lê Hạo cũng nghe được. Nguyên lai bọn hắn đang đến tàng võ các , danh như ý nghĩa là nơi cất chứa võ học bí tịch ah, nghe đến võ học Lê Hạo nội tâm không khỏi nóng lên , hôm qua hắn cũng nghe ngóng được võ học sự tình."
+    },
+    {
+      "id": "10",
+      "storyId": 4,
+      "chapterName": "Chapter 1",
+      "content": "Truyền thuyết kể răng, mỗi khi Thiên Đạo tiêu vong, luân hồi đi đến điểm cuối, trong giới vực vô tận sẽ xuất hiện mười con \"Cự Thú Thái Cổ Hỗn Độn\". Bọn chúng có thân thể khổng lồ có thể sánh với Thần Vực, nơi bọn chúng đi đến trời long đất lở, thời không điên đảo, tinh hà suy vong, chúng sinh gặp nạn. Sau khi huỷ diệt thế giới cũ, bọn chúng sẽ mai danh ẩn tích, sau đó thiên địa tái sinh, trật tự xây dựng lại, sinh mệnh xuất hiện một lần nữa, thế giới mới ra đời. Học cung Viêm Hoàng. Đêm nay mây đen phủ kín, sấm chớp rền vang, mưa như trút nước. Đệ tử học cung \"Lý Tuấn Hy\" đang ngồi trên lưng Bạn Sinh Thú \"chim đại bàng bốn cánh vàng\", xuyên qua màn mưa dày. đặc, dừng lại trước một căn phòng. Két! Cửa phòng mở ra, một thiếu nữ váy trẳng vóc người lả lướt xuất hiện, một tay cầm tà váy, một tay che ô giấy dầu, đứng trong nước mưa bản tung toé, trên mặt mang theo nụ cười dịu dàng, đi đến che mưa cho Lý Tuấn Hy. \"Tình Tình, kỷ niệm một năm vui vẻ\", hai người bước nhanh vào trong nhà, vừa đi vào, Lý Tuấn Hy đã lấy ra một cây trâm ngọc đặt trong tay nàng ta. \"Đẹp quá, đeo cho ta đi\", Mộc Tình Tình vui mừng và kinh ngạc nói. Hai người đứng trước gương. Lý Tuấn Hy cài trâm ngọc lên tóc nàng ta, véo mặt nàng ta một cái. Hắn không nhìn thấy trong mắt Mộc Tình Tình loé lên vẻ mất kiên nhẫn. Bên ngoài tiếng sấm rền vang, bầu không khí trong phòng cũng vô cùng mập mờ. \"Tuấn Hy, tối nay, ta muốn trở thành nữ nhân\", nàng ta cúi đầu, khuôn mặt đã ửng đỏ, lộ vẻ xinh đẹp quyến rũ. \"Là sao?\" \"Ta muốn dâng mình cho chàng\". Trong lúc nói chuyện, nàng ta đã duỗi tay chủ động c ởi quần áo, làn da của nàng ta vô cùng mềm mại, khiến người ta say mê. Nhưng Lý Tuấn Hy cảm thấy rất kỳ lạ."
+    },
+    {
+      "id": "11",
+      "storyId": 4,
+      "chapterName": "Chapter 2",
+      "content": "Nghe nói chiến hồn Thánh Thú có thể tạo ra cường giả ngự trị chúng sinhI Chiến hồn Thánh Thú mà Lý Tuấn Hy lấy được đã bị Bạn Sinh Thú Kim Vũ luyện hoá vào trong lông chim của nó rồi. \"Ta không thân thiết với ai ở Diệm Đô này, chỉ có Mộc Tình Tình là thân thiết với ta nhất, biết chuyện ta lấy được báu vật\". \"Chỉ một chiến hồn Thánh Thú đã khiến nàng cấu kết với một tên con cháu nhà giàu, đá ta đi?\" Hắn đã bị sấm chớp bao vây, không thể di chuyển, chỉ có thể đứng nhìn lông chim trên người Kim Vũ bị con chim ưng lôi điện kia rút ra từng cái một, nhìn thấy cơ thể nó đầm đìa máu tươi, hô lên thảm thiết với hắn. Sự khao khát và đau đớn trong mắt nó khiến trái tim Lý Tuấn Hy như bị xé rách. Trên đời này còn chuyện gì khó chịu hơn việc nhìn thấy huynh đệ của mình bị người khác xẻ thịt ngay trước mắt mà không thể làm gì chứ? \"Lâm Tiêu Đình, Mộc Tình Tình!\", hai mắt Lý Tuấn Hy hằn lên tia máu, lửa giận cuộn trào trong lồ ng ngực. Mưa to như trút nước, cơ thể Mộc Tình Tình đã ướt đẫm, nàng ta đi tới bên cạnh Lý Tuấn Hy, nhìn hẳn bằng ánh mắt kiêu ngạo. \"Tuấn Hy, ngươi cam chịu số phận đi. Năng lực và gia thế của ngươi không xứng với ta và chiến hồn Thánh Thú đâu\", Mộc Tình Tình nói. \"Vậy cô cho rằng bây giờ cô chim sẻ bay lên cành cao. thành phượng hoàng rồi à?\" \"Không phải hay sao? Đình ca đã đồng ý giúp ta trở thành đệ tử Thiên Phủ rồi\", nàng ta lạnh lùng nhìn hẳn: \"Lý Tuấn Hy, sau khi đến Diệm Đô, ta phát hiện chúng ta quá thấp kém. Từ bây giờ, ngươi sẽ trở nên mờ nhạt trong mắt mọi người, còn ta bước lên đỉnh cao, coi như ngươi trả giá vì tình yêu để ta được như ý nguyện đi, có thể không?\" \"Mộc Tình Tình, sớm muộn gì cô cũng sẽ chết một cách thê thảm\". \"Ồ, tiếc là không liên quan đến ngươi nữa rồi, trở về thành Ly Hoả của ngươi đi, ta tha mạng cho ngươi, coi như đền ơn cứu mạng của ngươi, từ nay chúng ta không ai nợ ai\", nàng ta ngồi xổm xuống, chỉnh mái tóc rối bời giúp Lý Tuấn Hy: \"Cảm ơn sự trả giá của ngươi, từ nhỏ đến lớn, ta đã bị bắt nạt quá nhiều rồi, bắt đầu từ hôm nay, ta muốn những người từng xem thường ta phải quỳ xuống nói chuyện với ta\"."
+    },
+    {
+      "id": "12",
+      "storyId": 4,
+      "chapterName": "Chapter 3",
+      "content": "Một bóng dáng xuất hiện trước mặt Lý Tuấn Hy. Ỷ?? Cự thú đáng sợ trong tưởng tượng không hề tồn tại! Lúc này thứ bò ra từ trong vỏ trứng, ngã trái ngã phải trên giường lại là một con gà con! Hơn nữa còn là một con gà vừa vàng vừa non nớt. Lý Tuấn Hy nghĩ tới một chữ để miêu tả nó - cho vào. miệng là tan. \"Rõ ràng ngươi chỉ là một con gà, còn làm ra khung cảnh như hung thú hồng hoang xuất thế làm gì\", Lý Tuấn Hy đau đầu nói. \"Cái gì? Nói ai là gà đấy? Ngươi xem thường ta hả? Lão tử bóp vỡ trứng của ngươi bây giờ!\", con gà vàng kia đột nhiên nhảy lên, ngẩng cao cổ, nhìn Lý Tuấn Hy một cách hung dữ, hai mắt như sắp bản ra lửa. Một con gà mới ra đời lại xưng là lão tử với hắn? Bạn Sinh Thú có thể tiến hành kết nối linh hồn với Ngự Thú Sư, nhưng loại có thể nói chuyện ngay lập tức cũng không nhiều, hình như chỉ có Bạn Sinh Thú giống chim anh vũ là làm được, con gà này giống với chim anh vũ, có thể nói chuyện cũng rất bình thường. Lý Tuấn Hy quan sát một lúc, hăn nhìn thấy một điểm sáng trong đôi mắt nhỏ của con gà này, đó là một \"tinh điểm\". \"Lúc nở ra, trong mät Bạn Sinh Thú có tinh điểm, vậy nó là Bạn Sinh Thú cấp bậc gì?\" Nhớ lúc Kim Vũ vừa nở ra, có tổng cộng 5 tinh điểm xuất hiện, chứng minh nó là Bạn Sinh Thú cấp năm khá hiếm có ở thành Ly Hoả. Cấp bậc của Bạn Sinh Thú sẽ quyết định mức độ trưởng thành của nó, cũng đại diện giới hạn tu luyện của Ngự Thú Sư. Bạn Sinh Thú cấp năm đủ để Lý Tuấn Hy trở thành thiên tài hàng đầu thành Ly Hoả trong ba trăm năm qua rồi. Con gà vàng này có một tinh điểm, chứng tỏ nó chỉ là một con Bạn Sinh Thú cấp một đáng thương. \"Đợi đãi\" Khi Lý Tuấn Hy ngây người nhìn tinh điểm này, hắn chợt thấy bất ngờ, không biết do ảo giác hay nguyên nhân gì, mà tỉnh điểm đó lại tản ra trước mắt hẳn. Mấy cái, mười mấy cái, hơn trăm cái, sau đó là hàng nghìn hàng vạn cái tinh điểm! Đến cuối cùng, tinh điểm này biến thành một tinh vực to lớn trong mắt Lý Tuấn Hy! Trong tinh vực này có một nghìn tỷ hằng tinh đang bốc. cháy. Bọn chúng ở cách rất xa, nhưng lúc này, ánh sáng mà chúng kết hợp lại đã chiếu đến trước mắt Lý Tuấn Hy."
+    },
+    {
+      "id": "13",
+      "storyId": 5,
+      "chapterName": "Chapter 1",
+      "content": "Bình nguyên mười sáu năm, là cực kỳ náo động một cái năm đầu, từ miếu đường, cho tới giang hồ dân gian, đều bị loạn tượng mọc thành cụm. Trong triều đình, khắp nơi thế lực mắt thấy hoàng đế thân thể ngày càng sa sút, bắt đầu tranh đấu gay gắt trữ quân một vị, địa phương thế lực ngo ngoe rục rịch, tái ngoại man di như hổ rình mồi. Giang hồ bên trong cũng không thái bình, chính tà hai phái giương cung bạt kiếm, lớn lớn bé bé phân tranh không ngừng, đầu tiên là tà môn đệ nhất đại giáo Lạc Ảnh Giáo bốn phía bắt giữ dân gian đứa bé, lấy này tâm đầu huyết rèn luyện đan dược. Tin tức truyền ra, giang hồ phía trên một mảnh ồ lên, lên án công khai thanh nổi lên bốn phía, ngay sau đó các đại môn phái cùng lực hiệp khế kết thành liên minh nhất cử phạt chi, cùng năm, từ Thiên Cực Tông cầm đầu các đại môn phái liên minh thành công đánh bại Lạc Ảnh Giáo, này hạ giáo chúng bị kể hết tiêu diệt, giáo chủ Thi Thanh Hàn thân bị trọng thương không biết tung tích, đến tận đây, trên giang hồ nghênh đón cho thấy thượng gió êm sóng lặng. Mà câu chuyện của chúng ta, lại muốn từ chúng môn phái kết thành liên minh thảo phạt Lạc Ảnh Giáo bắt đầu nói lên. ...... Bình nguyên mười sáu năm tháng tư, Tây Bắc khu vực một cái gọi là Hoài Liễu thôn trang nhỏ trung, tóc trắng xoá lão thôn trưởng gom đủ toàn thôn 56 khẩu người, bọn họ chính thương nghị ngày mai muốn đem nhà ai nam đồng giao cho Lạc Ảnh Tử hắc giáp, nhưng mà đối mặt như thế trầm trọng lựa chọn, ở đây mọi người đều đều lặng ngắt như tờ. Rốt cuộc là một vị phụ nữ và trẻ em kìm nén không được nỗi lòng, ô ô yết yết khóc lên, nàng bên cạnh nam nhân gục xuống hạ mặt, thô thanh thô khí mà quát: \"Khóc cái gì khóc, ngươi này bà nương liền biết khóc, câm miệng!\""
+    },
+    {
+      "id": "14",
+      "storyId": 5,
+      "chapterName": "Chapter 2",
+      "content": "Chỉ thấy hắn từ trong lòng ngực móc ra một bao bột phấn trạng đồ vật, hướng vò rượu đảo đi. Một bên nam tử hạ giọng hỏi: \"Lão Lục, ngươi xác định này dược có thể hành? Kia Phó lão hán chính là cái người biết võ, nếu là không thành công chúng ta nhưng không hảo trái cây ăn.\" Bị gọi là lão Lục nam tử đắc ý mà cười cười, \"Yên tâm, liền tính là mười đầu ngưu cũng có thể cho hắn phóng đảo lạc, nhưng thật ra các ngươi, đợi lát nữa tự nhiên điểm, đừng lòi.\" Kia hai người liếc nhau sau gật gật đầu. Cuối cùng ba người thương nghị xong, thổi tắt đèn, đề rượu ra cửa đi. Đãi bọn họ đi hướng cửa thôn thân ảnh biến mất ở trong bóng đêm sau, một bên nhà xí đi ra một vị thân hình tiêu điều lão nhân, là kia lão thôn trưởng, hắn nặng nề mà thở dài, thẳng tắp lắc đầu, \"Tạo nghiệt a, tạo nghiệt.\" Lúc này Hoài Liễu thôn cửa thôn, Phó gia tứ khẩu quần áo nhẹ giản tiện chờ ở chỗ này, nhưng trừ bỏ bọn họ, lại là không thấy mặt khác người, chỉ có gió đêm nhẹ phẩy mà qua lá liễu vuốt ve thanh. Phó Phái Bạch tự biết trong thôn những người này có bao nhiêu ngoan cố cứng nhắc, nàng đánh ngáp nói: \"Cha, chúng ta đi thôi, bọn họ sẽ không tới.\" Phó lão hán nhíu lại mi, trầm giọng nói: \"Chờ một chút.\" Phó Phái Bạch bĩu môi, đi đậu bên cạnh chính ngủ gà ngủ gật Phó Gia Hứa. Mới vừa tám tuổi nam hài chỉ tới Phó Phái Bạch vòng eo cao, nàng sờ sờ đệ đệ đầu, cười hỏi: \"Tiểu Gia Hứa vây lạp?\" Phó Gia Hứa không biết bọn họ muốn đi đâu, chỉ biết đang ngủ ngon lành liền bị cha kéo lên, nói muốn ra xa nhà đi, hắn tính tình luôn luôn mềm, cũng không nghịch ngợm chơi tính tình, cha mẹ cùng a tỷ nói cái gì hắn liền làm cái đó, nghe lời cực kỳ."
+    },
+    {
+      "id": "15",
+      "storyId": 5,
+      "chapterName": "Chapter 3",
+      "content": "\"Phong chủ, đều kiểm tra qua, không một may mắn còn tồn tại, như thế nào xử lý?\" Một đạo thanh lãnh như tuyền giọng nữ vang lên, \"Ngay tại chỗ vùi lấp.\" \"Đúng vậy.\" Nàng nháy mắt mở to mắt, phiên đứng dậy tới, liều mạng hướng về phía trước nhảy, yết hầu phát ra mơ hồ không rõ nức nở. Nàng muốn sống, nàng muốn sống sót, sống sót vì người nhà báo thù, báo thù! Nàng muốn giết sạch thế gian sở hữu tà ma ngoại đạo! Nàng trong lòng giờ phút này chỉ có như vậy một cái ý tưởng, nàng muốn sống sót báo xong thù lại đi xuống tìm cha mẹ Gia Hứa đoàn tụ, bằng không nàng chết không nhắm mắt! Có lẽ là trời xanh có mắt, nàng nhảy lên mỏng manh thanh âm rốt cuộc bị người phát hiện, kia nói thanh lãnh giọng nữ lại lần nữa vang lên, \"Bên kia có động tĩnh, đi xem.\" Thực mau liền có người đạp nặng nề bước chân đã đi tới, đè ở tấm ván gỗ thượng thi thể bị dịch khai, tấm ván gỗ bị mở ra một cái chớp mắt, ánh sáng một lần nữa bao phủ tiến hầm, chói mắt ánh mặt trời làm Phó Phái Bạch không mở ra được mắt, nàng nhíu mày, nhắm hai mắt, nghe được trên đầu có người nói, \"Bẩm báo phong chủ, nơi này còn có người tồn tại.\" Nàng thật vất vả thích ứng ánh sáng, mở to mắt, ngẩng đầu nhìn lại, mơ hồ trong tầm mắt có một cái mơ hồ nữ tử thân ảnh, người nọ đứng ở phản quang hạ, quang ảnh trọng điệp, nàng thấy không rõ đối phương mặt, thẳng đến nàng trước mắt hoàn toàn thanh minh, nàng mới có thể nhìn thấy đối phương chân dung. Kia tuổi trẻ nữ tử người mặc một thân thuần tịnh bạch y, mặt mày thon dài, khuôn mặt thanh lãnh, cặp kia màu nâu nhạt đồng tử phảng phất một đôi lưu li đá quý, trong suốt thông thấu. Phó Phái Bạch có trong nháy mắt hoảng hốt, ở nàng trưởng thành tiền mười 6 năm, còn chưa bao giờ gặp qua sinh đến như thế đẹp người, đem chi so sánh trích tiên, cũng không chút nào vì quá."
+    },
+    {
+      "id": "16",
+      "storyId": 6,
+      "chapterName": "Chapter 1",
+      "content": "Kiếm Tông, Huyền Không sơn, Tạp Dịch phong.Với tư cách là tông phái lớn nổi danh ở Nam Vực, Kiếm Tông lưng tựa Thập Vạn đại sơn, phía nam trông về đế quốc Đại Tần, kiến trúc chiếm liên tiếp hơn một nghìn dặm trong Huyền Không sơn. Huyền Không sơn có bảy đỉnh lớn, ba mươi sáu đỉnh nhỏ, trong đó Tạp Dịch phong là một trong vô số đỉnh nhỏ. Tạp Dịch phong, tên cũng như nghĩa, là nơi ở của các đệ tử tạp dịch.TuyTạp Dịch phong là nơi đệ tử tạp dịch ở, nhưng quy mô của nó có thể so sánh với một tòa thành nhỏ ba mươi mấy vạn người trong nước Đại Tần.Trời tờ mờ sáng, như thường lệ, Dương Diệp liền tỉnh dậy, rửa mặt đánh răng qua loa rồi cầm cái chổi sau cửa đi ra khỏi phòng.Nhìn một tia sáng trên trời, Dương Diệp hít một hơi thật sâu không khí tươi mát sáng sớm, một lát sau, trên gương mặt nhỏ nhắn non nớt của Diệp Dương tràn ngập kiên định, thấp giọng nói:- Cố gắng kiên trì, không từ bỏ!Nói xong, hắn bước nhanh về phía Thanh Phong cốc.- Các ngươi xem, kia không phải là đệ tử ngoại môn trước kia sao?- Thì ra là hắn, ngươi cũng biết đó chỉ là trước kia, hắn bây giờ chỉ là một tên đệ tử tạp dịch, quét rác giống chúng ta thôi.- Thật đáng tiếc, một tên trông thật tuấn tú! Bây giờ chắc tuổi của hắn cũng không quá mười sáu mười bảy nhỉ, ở tuổi này, đáng ra phải là tiền đồ vô lượng, đáng tiếc bây giờ lại là tạp dịch, đáng tiếc!- Nghe nói trước kia ở An Nam thành hắn được trưởng lão ngoại môn thu nhận làm đệ tử, ai mà biết được, hắn lại một năm không hấp thu được huyền khí, bị trưởng lão ngoại môn tức giận hạ xuống làm đệ tử tạp địch, còn được cái danh xưng đệ nhất phế vật của Kiếm Tông.- Đệ nhất phế vật Kiếm Tông, chậc chậc, cái danh xưng này vang dội đấy!Nghe thấy lời người xung quanh nói, Dương Diệp dừng bước chân, tay phải nắm chặt cây chổi, một lát sau, hắn hít một hơi thật sau, không để ý mấy người kia nữa, nhanh chân bước về Thanh Phong cốc.Thanh Phong cốc ở núi phía sau Tạp Dịch phong, do vài tòa núi nhỏ chân vạc kẹp chặt, ở giữa là đáy cốc lún xuống, trong cốc cỏ mọc um tùm, cỏ xanh như thảm, rất nhiều cây đại thụ chọc trời, cao vút, che khuất bầu trời. Nơi đây là chỗ đệ tử tạp dịch hái thuốc chặt củi mọi ngày, cũng là chỗ Dương Diệp tu luyện hàng ngày.Trên một tảng đá lớn, Dương Diệp tùy ý ném chổi sang một bên, sau đó ngồi trên tảng đá lớn, lấy ra một phong thư và một tượng đất nhỏ từ trong ngực, do hôm qua bận rộn cả ngày, hắn không có thời gian xem.Nhìn tượng đất nhỏ trong tay, trên gương mặt non nớt của Dương Diệp lộ ra nụ cười dịu dàng."
+    },
+    {
+      "id": "17",
+      "storyId": 6,
+      "chapterName": "Chapter 2",
+      "content": "Ở Tạp Dịch phong có một trường luyện võ rất lớn, áng chừng khoảng mấy trăm trượng, do đá lớn màu trắng xám tạo thành, cổ xưa uy nghiêm. Ở chính giữa quảng trường, một thanh thạch kiếm khổng lồ, cắm sừng sững ở đó.Trường luyện võ lớn trước mắt này là nơi bình thường các đệ tử ngoại môn tu luyện, cũng là nơi mà hôm nay Dương Diệp phải quét dọn. Một nơi rộng như vậy, đương nhiên không chỉ có một mình hắn quét dọn, đây là lượng công việc trong một ngày của ba người.Nếu là ngày hôm qua, có lẽ Dương Diệp sẽ oán trách vài câu, bởi vì một nơi rộng lớn thế này, ít nhất cần bốn người vất vả quét dọn một ngày mới xong, như vậy hắn sẽ không có thời gian tu luyện. Nhưng mà bây giờ, trong lòng hắn tràn đầy hy vọng, nhìn cái gì cũng thuận mắt.- Ôi, đây không phải là đệ nhất phế vật trong lịch sử của chúng ta sao? Ồ, không phải, là đệ tử ngoại môn của chúng ta, đệ tử ngoại môn của chúng ta dậy sớm thật đó, có phải đã quét dọn sạch trường luyện võ rồi không? Ha ha…Đúng lúc này, một tiếng cười mang theo sự mỉa mai từ một bên truyền tới.Nghe những lời mỉa mai này, Dương Diệp quay người nhìn ba người phía bên phải, ba người trước mắt là người quét dọn cùng hắn hôm nay. Nhìn vẻ mặt trêu tức của bọn họ, Dương Diệp mặt không biểu cảm, không nhìn ra vui buồn.Tên cầm đầu hắn có quen biết, tên là Đỗ Tu, cũng là đệ tử tạp dịch, có điều thanh danh của người này rất xấu, tuy là đệ tử tạp dịch, nhưng lại không bao giờ làm việc, đều để người khác làm việc của mình. Sở dĩ Đỗ Tu có thể nghênh ngang như thế là vì gã có một thúc thúc và biểu ca, thúc thúc gã là Từ quản sự của viện tạp dịch, Kiếm Tông có hơn hai ngàn đệ tử tạp dịch đều do Từ quản sự quản lí. Mà biểu ca gã lại là đệ tử ngoại môn."
+    },
+    {
+      "id": "18",
+      "storyId": 6,
+      "chapterName": "Chapter 3",
+      "content": "Cạnh một hồ nước trong Thanh Phong cốc, Dương Diệp xếp bằng ngồi trên đất, hai mắt khép hờ, tinh thần chìm vào trong cơ thể.Sau khi hết hưng phấn, Dương Diệp cảm thấy có chút không bình thường, hai cái đan điền, cái này thấy sai sai thế nào ấy, cho nên hắn quyết định nhìn cho rõ cái vòng xoáy nhỏ trong đan điền kia là như thế nào.Lần này hắn nhìn rõ ràng cái vòng xoáy nhỏ trong đan điền kia, nó chỉ lớn chừng bàn tay, không ngừng tỏa ra lực hút, cũng bởi vì lực hút này mà huyền khí mỗi lần hắn luyện ra đều bị hút vào vòng xoáy nhỏ trong nháy mắt.Cái vòng xoáy nhỏ này hút hết sạch huyền khí trong đan điền hắn, làm cho hắn không thể trở thành Huyền giả được, không, phải nói là rất lâu trước kia hắn cũng đã là Huyền giả rồi. Bởi vì có thể trở thành Huyền giả hay không chính là xem tư chất của người đó, nếu như có thể thông qua rèn luyện thân thể, hấp thu được huyền khí thì người này chính là một Huyền giả.Thế nhưng huyền khí của hắn vừa mới vào cơ thể đã bị vòng xoáy nhỏ hấp thu mất, làm cho đã qua một năm mà hắn cũng không trở thành Huyền giả được. Nhưng xét theo tiêu chuẩn trở thành Huyền giả thì trước đó hắn đã là một Huyền giả thật.Dương Diệp thử khống chế vòng xoáy nhỏ này, theo hắn nghĩ cái vòng xoáy nhỏ này nếu đã ở trong cơ thể hắn thì phải là thứ thuộc về hắn, chịu khống chế của hắn."
+    },
+    {
+      "id": "19",
+      "storyId": 7,
+      "chapterName": "Chapter 1",
+      "content": "Đông Vực Kiếm Ma tông Trên khoảng sân bên ngoài cổng tụ tập một đám người đông đúc. Đa số bọn họ đều mang vẻ kinh hãi trên khuôn mặt. \"Đây là đâu? Sao ta lại bị bắt tới nơi này?\" \"Dám bắt ta ư, mấy người có biết cha ta là ai không?\" \"Sao lại có nhiều người như vậy?\" Cảnh tượng hỗn loạn, tiếng ồn ào gì cũng có. Ngay vào lúc này. Một tiếng hừ lạnh vang lên. \"Câm miệng lại hết cho ta!!\" Cùng lúc này, một loại uy áp khiến người ta run rẩy đã bao phủ lên toàn bộ không gian, khiến tất cả bọn họ suýt chút nữa thì ngạt thở. Sau khi âm thanh vang lên, một người trung niên mặc áo bào màu xanh lam bước lên đài cao, nhìn xuống đám người đông như kiến. Ánh mắt của ông ta rất sắc nhọn, không một ai dám nhìn thẳng vào mắt ông ta. \"Đây là Kiếm Ma tông, nếu các người muốn sống thì hãy thành thật một chút cho ta!\" Ông ta lại mở miệng một lần nữa. Nhưng lời này vừa thốt ra. Đám đông phía dưới có gần một vạn người bình thường đều chết lặng. \"Kiếm Ma tông? Chính là cái ma giáo không chuyện ác gì không làm kia hay sao?\" \"Toi rồi, toi rồi! Ta còn trẻ như vậy mà đã phải chết rồi sao?\" \"Chắc không phải bọn chúng muốn dùng chúng ta để tu luyện tà pháp đấy chứ!\" \"Mẹ ơi, sao mà tôi đen đủi quá vậy.\" \"Chạy!!! Mau chóng chạy!\" \"Đúng, ta nhất định phải rời khỏi nơi này.\" Có vài kẻ tuyệt vọng ngồi bệt xuống đất, cũng có vài kẻ chạy tán loạn ra ngoài. Mà biểu cảm của người trung niên đứng trên đài cao kia không hề có bất cứ thay đổi nào. Ông ta chỉ nâng tay trái lên, khẽ phất một cái."
+    },
+    {
+      "id": "20",
+      "storyId": 7,
+      "chapterName": "Chapter 2",
+      "content": "Ngay cả hít thở cũng không dám hít thở mạnh. \"Ta đã nói rồi, muốn sống thì thành thật một chút, bây giờ xem ra các ngươi đã ngoan hơn nhiều rồi đấy, haha.\" Người trung niên cười lạnh, nói. Không một ai dám đáp lời ông ta. \"Ta biết mỗi một người trong các ngươi đều đang rất thắc mắc, tại sao lại bị bắt tới đây, nhưng cái này không quan trọng.\" \"Quan trọng là, đây chính là một cơ duyên của các ngươi.\" \"Tiếp theo đây, tất cả các ngươi đều đừng có phản kháng, ta sẽ tiến hành kiểm tra tư chất của các ngươi.\" \"Bất luận tư chất tốt hay kém, Kiếm Ma tông của ta đều sẽ đối xử tốt với các ngươi.\" Nói xong những lời này. Người trung niên lại phất tay trái. Gần một vạn tia bạch quang phát ra từ tay của ông ta, sau đó phi thẳng vào trong đám người. Điều này khiến đám người kia lại nháo nhào lên một lần nữa. Bọn họ tưởng người này nổi sát khí, muốn ra tay giết hết toàn bộ bọn họ. Nhưng tia bạch quang kia không hề làm tổn thương bọn họ, chỉ phủ lên người từng kẻ một. Thứ bạch quang này là…là một tấm ngọc phù. Ngọc phù sau khi dính lên người bọn họ, liền bắt đầu đổi sắc. Ngọc phù trên người của một vài kẻ thì đổi thành màu đỏ nhạt, có vài kẻ là màu đỏ đậm, còn có màu vàng nhạt, hoặc là màu vàng đất, vv…. Đây là chuyện gì vậy?? Trên khuôn mặt của gần một vạn kẻ đều là sự kinh hoảng, sợ hãi và nghi ngờ. Ba từ Kiếm Ma tông này đem lại sự sợ hãi quá mãnh liệt cho bọn họ. Nhưng trong đám người này, lại có một ánh mắt khác biệt hoàn toàn với người bình thường."
+    },
+    {
+      "id": "21",
+      "storyId": 7,
+      "chapterName": "Chapter 3",
+      "content": "Nhưng một là không có gia cảnh hậu thuẫn, hai là không có kiến thức, sau vài lần đâm đầu vào ngõ cụt, suýt nữa thì bị bọn buôn người lừa đi. Lâm Tiêu quyết định bình tĩnh lại, đi từng bước một. Thế giới này không phải là thời đại hòa bình gì, mà là nơi chỉ cần một lời không hợp là có thể giết người như ngóe rồi. Là thế giới mà nắm đấm to chính là lí lẽ, kẻ mạnh mới được tôn vinh. Nhưng điều khiến Lâm Tiêu không ngờ tới là. Lúc hắn chuẩn bị dùng nắm đấm mạnh mẽ tạo nên một truyền kỳ người phàm tu tiên. Thì hắn lại vô cớ ngất đi. Khi tỉnh lại một lần nữa, hắn đã cùng với đám gần một vạn người cùng nhau xuất hiện tại Kiếm Ma tông này. Cái tên Kiếm Ma tông này, vừa nghe đã biết không phải là chính phái. Còn có một màn người trung niên kia ra tay giết người không chút do dự ban nãy. Những điều này đều khiến Lâm Tiêu hiểu ra rằng, đây không phải là nơi để luận định đúng sai. Nhưng bất kể thế nào, hắn cũng coi như đã gia nhập một môn phái tu luyện. Đây phải chăng là một cơ duyên? \"Hahaha, trong đám người này vậy mà lại có hai kẻ có tư chất lục phẩm, khá lắm, khá lắm!!!\" Người trung niên cười lớn. Sau đó, ông ta ném cho hai kẻ có lục quang trên người hai tấm lệnh bài. \"Bắt đầu từ hôm nay, hai người các ngươi chính là đệ tử ngoại môn của Kiếm Ma tông ta.\" Hai kẻ đó tiếp nhận lệnh bài, khiếp sợ vì kinh ngạc, sau đó vui mừng không thôi. \"Cảm… cảm tạ đại nhân đã coi trọng.\" \"Cảm tạ đại nhân.\" Người trung niên phất tay, nói tiếp: \"Gọi ta là Trần trưởng lão được rồi.\" Hai kẻ đó một lần nữa cúi gập người cảm tạ. Không cần phải chết, còn có thể trở thành đệ tử ngoại môn chính thức của Kiếm Ma tông, thế này còn may mắn hơn cả chuyện tiền từ trên trời rơi xuống nữa. Những kẻ khác nhìn thấy cảnh này, chấn kinh và đồng thời cũng ngưỡng mộ vô cùng."
+    },
+    {
+      "id": "22",
+      "storyId": 8,
+      "chapterName": "Chapter 1",
+      "content": "\"Tần Tranh? Tại sao lại là đồ câm điếc nhà anh đến đón tôi chứ? Cổng đại học Lâm Thành, Sở Tử Đàn nhíu mày, vẻ mặt ghét bỏ nhìn người đàn ông trước mặt, sau đó cẩn thận nhìn xung quanh. \"Đi nhanh lên đi, nếu để bạn học tôi nhìn thấy thì tôi còn mặt mũi mà đi học tiếp sao? Nói rồi Sở Tử Đàn nhanh chân đi về trước. Tần Tranh mím miệng, lập tức đuổi theo Sở Tử Đàn. Hôm nay anh giúp vợ mình, Sở Hiểu Đồng đến đón Sở Tử Đàn tan học, bình thường đều là Sở Hiểu Đồng đến đón, nhưng hôm nay Sở Hiểu Đồng nói công ty có chút việc phải xử lí nên gửi tin nhắn nói anh đi. Lúc Tần Tranh đi theo Sở Tử Đàn về phía xe thì có ba nữ sinh sóng vai đi đến, thấy Tần Tranh đi cùng Sở Tử Đàn thì xông tới. Ôi, đây không phải là hoa khôi Sở Tử Đàn sao? Bước chân của Sở Tử Đàn dừng lại, sắc mặt lập tức thay đổi, cô ta liếc mắt nhìn Tần Tranh sau lưng, trong lòng vô cùng buồn bực. Điều cô ta sợ nhất chính là người khác nhìn thấy người anh rể câm điếc này của mình, kết quả vẫn bị thấy, quan trọng hơn nữa người thấy lại là nữ sinh không hợp với cô ta. Là mấy người sao, sao vậy? Khóe môi Sở Tử Đàn hơi nâng lên, miễn cưỡng cười nói. Không có gì, chào hỏi mà thôi. Trong ba nữ sinh có một nữ sinh tóc dài, cô ta cười lạnh. Ánh mắt nữ sinh tóc dài chậm rãi nhìn về phía Tần Tranh, mắt đột nhiên mở lớn, khoa trương nói: Ôi..., Tử Đàn, người này...!Không phải đây là anh rể câm điếc vô dụng ở rể một năm của cậu sao? Sao cậu lại mang người đến trường học của chúng ta luôn rồi? Sở Tử Đàn nổi giận, ánh mắt cũng trầm xuống: Liên quan gì đến cậu chứ, chó ngoan không cản đường, cút đi! Cô ta đẩy nữ sinh trước mặt ra, kéo tay Tần Tranh đến xe con, đóng cửa xe rầm một cái. Mau lái đi, còn muốn xem tôi làm trò cười tiếp sao? Sở Tử Đàn tức tối hét. Ngón tay Tần Tranh dừng lại, tiếp đó im lặng khởi động xe. Hai mắt Sở Tử Đàn nhắm chặt lại, nghe tiếng chế giễu loáng thoáng bên ngoài cửa xe, ngực lên xuống không ngừng."
+    },
+    {
+      "id": "23",
+      "storyId": 8,
+      "chapterName": "Chapter 2",
+      "content": "Tần Tranh không biết hai người này không hài lòng với mình, vẻ mặt vẫn lạnh nhạt như cũ, anh muốn đi đến ghế sopha ngồi. Cậu đứng đấy cho tôi! Hàn Anh quát chói tai, Tần Tranh hơi ngạc nhiên, khẽ nhíu mày nhưng cũng không phản kháng. Anh cảm thấy Hàn Anh là mẹ vợ mình. Nhà họ Sở đối với anh ân cao như núi, một vài lời quát lớn anh cũng sẽ xem như lời dạy dỗ nghiêm khắc của mẹ. Thấy Tần Tranh nghe lời, sắc mặt Hàn Anh lúc này mới tốt hơn. Bà ta còn chưa kịp lên tiếng lần nữa thì Lưu Minh Hạo đã sải bước đi đến trước mặt Tần Tranh. Hàn Anh nhìn sang, dáng người hai người không thua kém nhau là bao. Nhưng kì lạ là Tần Tranh trong quá khứ nhìn rất yếu ớt, bây giờ lại có cảm giác còn khí thế hơn cả Lưu Minh Hạo. Hàn Anh sững sờ, cho rằng mình chắc chắn hoa mắt rồi. Sở Tử Đàn đứng bên cạnh càng cảm thấy Tần Tranh như biến thành người khác hơn. Nhưng trong mắt Lưu Minh Hạo, Tần Tranh chỉ đang giả vờ bình tĩnh mà thôi. Mục đích tôi đến đây lần này là có hai chuyện. Lưu Minh Hạo nhìn Tần Tranh mỉm cười nói: Thứ nhất, nhìn người mà Hiểu Đồng gả là người như thế nào. Thứ hai, tôi sẽ xem tình hình mà đưa ra quyết định với người đó. Nghe được câu này, Tần Tranh vô cùng ngạc nhiên. Sao anh lại không biết từ khi nào mà hôn nhân của Tần Tranh anh cần một người ngoài đến để quyết định rồi? Dì, Hiểu Đồng là bạn chơi từ nhỏ đến lớn của cháu, cháu muốn nhìn thử xem chồng của cô ấy có thể mang đến hạnh phúc cho cô ấy không, dì sẽ không giận chứ? Lưu Minh Hạo nhìn Hàn Anh hỏi. Trong lòng Hàn Anh có chút không thoải mái, dù sao đây cũng là chuyện của nhà họ Sở, cho dù quan hệ của của Hiểu Đồng có tốt đi chăng nữa thì cũng chỉ là người ngoài."
+    },
+    {
+      "id": "24",
+      "storyId": 8,
+      "chapterName": "Chapter 3",
+      "content": "Sở Hiểu Đồng chẳng hề cảm thấy lời này có gì không ổn. Bởi vì từ sau khi Tần Tranh vào nhà cô, cô cũng thường nói những lời như vậy với Tần Tranh. Ngay khi những lời kia vừa thốt ra, tiếng cười chế giễu của người xung quanh càng lớn hơn. \"Một tên ăn của vợ, xài của vợ, vậy mà lại dõng dạc nói mình biết chữa bệnh? Thật nực cười.\" Người xung quanh lắc đầu cười nhạo. Mà lúc này, người phụ nữ nổi đầy mụn nhọt trên mặt cũng bực bội không thôi: “Tôi mặc kệ chuyện riêng của các người, dù sao hôm nay nếu các người không chữa khỏi mụn nhọt trên mặt tôi, thì phải bồi thường cho tôi 100 triệu!\" \"Bằng không, chỉ cần một câu của tôi, cả nhà các người đều cút hết ra khỏi Dương Thành cho tôi!\" Câu này của người phụ nữ khiến sắc mặt của đám người Sở Hiểu Đồng và Hàn Anh lập tức trắng bệch. Cút khỏi Dương Thành? Bọn họ vất vả lắm mới kiếm được mấy chục triệu ở Dương Thành, nếu ra khỏi Dương Thành, chẳng phải là phải làm lại từ đầu sao? \"Hiểu Đồng.\" Tần Tranh lên tiếng lần nữa: \"Ở đây không ai có thể chữa khỏi, trong nhà cũng không bỏ ra nổi 100 triệu, sao không để cho tôi thử một lần, cho dù như thế nào, cũng sẽ không tệ như hiện tại.\" Tần Tranh chắc chắn mình có thể chữa khỏi, năm đó khi anh học được những gì ông lão đã học cả đời, chỉ cần một tay y thuật liền xuất thần nhập hóa. Anh dám cam đoan, chỉ cần một vài loại thảo mộc, trộn lẫn và nghiền nát với nhau rồi đắp lên mặt người phụ nữ này, chưa đầy mười phút, nhất định có thể làm cho người phụ nữ này khôi phục như lúc ban đầu! Trong lòng của Sở Hiểu Đồng hơi dao động. Quả thực lời của Tần Tranh nói rất đúng, thế nhưng... \"Không được! Cậu căn bản không phải là bác sĩ, càng không có giấy phép hành nghề y, lỡ như cậu chữa chết người, nhà họ Sở của tôi chẳng phải sẽ chôn cùng cậu sao!\" Hàn Anh tiến lên một bước, cau mày quát lớn. \"Tần Tranh, dù cậu không muốn sống, thì cũng đừng kéo Hiểu Đồng theo! Nếu như cậu thật sự muốn chữa, vậy cậu thề với trời đi, lỡ cậu thất bại thì không liên quan gì đến nhà họ Sở cả, tất cả rủi ro sẽ do một mình cậu gánh chịu!\" Lưu Minh Hạo lạnh lùng mắng. Nghe được lời này, ánh mắt Tần Tranh bỗng chốc lạnh đi."
+    },
+    {
+      "id": "25",
+      "storyId": 9,
+      "chapterName": "Chapter 1",
+      "content": "Tiếng vó ngựa \"rầm rầm\" xé gió lao nhanh về phía căn nhà hoang, bên trong có mười thích khách đang lục soát. Chợt thủ lĩnh trong nhóm thích khách kêu lên: \"Không xong! Mắc bẫy rồi!\" Đàn ngựa chạy rầm rập mau chóng vây quanh căn nhà, đứng đầu là ba gã cao to cưỡi ba con ngựa chiến màu đen. Kèm theo đó là những tiếng hò hét vang dội như thay tiếng cồng chiêng nhằm phô trương uy thế của đám người ngựa ở phía sau. Nhận thấy mình bị bao vây khó mà chạy thoát, thủ lĩnh thích khách lập tức hô to: \"GIẾTTT!\" Ngay sau đó, mười thích khách đang bị đàn ngựa bao vây lập tức rút kiếm đánh thẳng về phía trước, cố mở một đường máu dù lòng biết chắc lần này khó tránh khỏi cửa tử. Trên mặt mỗi thích khách đều đằng đằng sát khí, tất cả đồng thanh thét lớn: \"GIẾTTTTTTTTT!\" Đàn ngựa lập tức thu hẹp vòng tròn lại, vài tên cưỡi ngựa tách khỏi vào tròn, lao vào tấn công mười thích khách từ hai cánh trái - phải. Thủ lĩnh thích khách, nhảy lên chém đứt đầu một tên cưỡi ngựa vừa lao tới trước mặt mình. Một tên cưỡi ngựa khác từ phía bên phải lao tới, tay hắn cầm búa gắn mũi dao nhọn, đập thẳng vào sườn thủ lĩnh thích khách. Một thích khách khác từ đằng sau nhanh chóng lao lên, chém đứt tay của kẻ cầm búa kia. Bên trái, có bốn con ngựa đang xông tới chỗ mười sát thủ. Một thích khách dùng hai tay hai kiếm lao ra cắt yết hầu bốn con ngựa. Bốn con người hoảng loạn một hồi rồi ngã xuống, có bốn kẻ mặt mày dữ tợn nhảy xuống đất. Một tên trong số đó khi vừa nhảy xuống đất liền trúng luôn một mũi dao đâm thẳng vào giữa trán khiến hai mắt hắn mở to, miệng hắn ngáp ngáp, vẻ mặt không cam tâm, giống như kẻ vừa bước lên sân khấu đã diễn xong vai. Ba tên còn lại có dáng người cao to tiến tới chỗ mười thích khách. Trong số đó, có một tên vừa chạy vừa vung búa xoay vòng tròn như đang vẫy cờ nhảy múa. Có một tên lại quay chùy xích trên tay tạo thành một tấm lá chắn. Trong lúc hắn đang lao tới tấn công thích khách dùng hai kiếm, vì không chú ý nên chùy xích của hắn đã vài lần đập vào hai gã đồng đội. Tên còn lại sử dụng roi đinh. Hắn nhân lúc thích khách dùng hai kiếm đang bận đối phó với hai gã đồng đội của mình liền lẻn ra phía sau, dùng roi đinh quất mạnh vào thích khách."
+    },
+    {
+      "id": "26",
+      "storyId": 9,
+      "chapterName": "Chapter 2",
+      "content": "Trời đêm mưa tầm tã suốt ba ngày, Tinh Ngân tỉnh lại phát hiện mình đã trôi dạt vào bờ ở phía dưới chân núi. Lúc này trời đang là hoàng hôn, cô cố gắng bò dậy, lại thấy hai mắt hoa lên, nhìn không thấy rõ. Cô chỉ đành dùng hết sức mình, dùng hai bàn tay cào trên đất, cố cách xa dòng nước rồi thu người cuộn tròn. Cơ thể Tinh Ngân lúc này vừa nóng vừa lạnh, đầu nặng nề ong ong, khó nhọc cử động. Cô xoay người đối mặt với bầu trời đêm, để mặc gió mưa tạt vào mặt, thân thể ướt sũng. Tinh Ngân cười, có lẽ lần này cô sẽ không cần phải khổ sở sống tiếp nữa. \"Lách tách...\" \"Lách tách...\" Mưa rơi nặng hạt không ngừng. Tinh Ngân nhắm mắt, tiếng ù ù ngày một rõ rệt bên tai. Dù là lúc tỉnh hay mê, cô đều không cách nào mở nổi mắt, cơ thể nằm bất động như người sắp chết. Không biết đã qua bao lâu, cô mơ hồ nghe thấy tiếng vó ngựa càng lúc càng lớn. Cô thầm nghĩ: bọn chúng đuổi tới rồi ư? \"Rầm rầm.\" \"Rầm rầm.\" \"Y...!hý...!hý...!hýý\" Tiếng ngựa hý vang lên bên tai tai cô. Sau đó, một âm thanh vang lên: \"Vương gia, ở đây có người!\" Tiếng bước chân của đàn ngựa dừng lại, không gian bỗng chốc trở nên thật yên tĩnh. Tinh Ngân cảm thấy như có ai đó đang nhìn mình, cô không sao mở mắt được, cũng không cử động được, chỉ biết mấp máy môi không ngừng lên cứu. Nhưng dù cô kêu bao nhiêu lần thì chính cô còn không nghe thấy được. Tiếng một người bất chợt cất lên phá vỡ bầu yên tĩnh ngắn ngủi: \"Không quản!\" Ngay sau đó, tiếng bước chân ngựa dồn dập vang lên và xa dần. \"Rầm rầm...\" \"Rầm rầm...\" Trời mưa tầm tã, Tinh Ngân cả người ướt sũng, hai mắt nhắm nghiền, chẳng mấy chốc đã rơi vào trạng thái mê sảng. \"Phi Ảnh? Phi Ảnh, Phi Ảnh...\" \"Sư phụ?\" \"Có ai không?\" \"Phi Ảnh!\" \"Sư phụ!\" \"Yên Thanh...\" \"Phi Yến...\" \"Có ai không?\" Tinh Ngân thấy mình đứng ở một nơi rất tối, trong vô thức cô gọi tên những người mình có thể nhớ tới lúc này."
+    },
+    {
+      "id": "27",
+      "storyId": 9,
+      "chapterName": "Chapter 3",
+      "content": "Gió thổi qua rèm cửa, trong phòng không một ánh đèn, Tinh Ngân nằm trằn trọc trên giường, cơ thể cô gần đây thường xuyên đau buốt, rã rời, tinh thần mệt mỏi không thôi. Cô đã từng đơn thương độc mã giết chết biết bao nhiêu người, cũng từng cùng đồng đội làm nhiệm vụ không biết bao nhiêu lần nhưng lần này lại là lần thất bại thê thảm nhất. Chỉ trong một ngày, tổ đội mười sát thủ xuất sắc của Vô Ảnh Cung, chín người ngã xuống, chỉ còn một mình cô. Chuyện này chỉ có thể là nội bộ tiết lộ thông tin ra ngoài...! Tinh Ngân xoay nghiêng vào trong giường, cô co người lại nhớ tới câu nói của Cung chủ Vô Ảnh Cung: \"Tinh Ngân, ta đối với ngươi không bạc phải không?\" Bất giác, Tinh Ngân sờ lên vết sẹo nổi trên tay trái. Năm đó, cô cùng Đồng Dao, một người bạn từng nhiều lần chiến đấu cùng cô, khắc hình đồng tâm kết lên một miếng bạc, nung nóng rồi dán lên người. Tinh Ngân vuốt ve vết sẹo, mỉm cười ấm áp. Cô giơ bàn tay lên ngắm năm ngón tay trong bóng tối rồi ngây người. Đến tận thời khắc cuối cùng, chín người nằm trên đất, cô chỉ biết được mỗi tên của một người, thậm chí cả khuôn mặt của những người đó cô cũng chưa từng thấy qua. Họ là những sát thủ bịt mặt, có nhiều những người bịt nhiều đến nỗi không nhớ rõ nổi mặt của chính mình. Ở Kiếm Vũ Bộ - phân nhánh sát thủ của Vô Ảnh Cung, mọi người thường bịt mặt hoặc dùng mặt nạ hoặc dùng cả hai để giấu đi mặt thật của chính mình. Đa số sát thủ chỉ lộ mặt thật với người họ thật lòng tin tưởng hoặc khi đã rời khỏi Vô Ảnh Cung. Khi đã rời Vô Ảnh Cung, họ trở lại với mặt thật, không ai biết họ là ai. Trên đời này, chửa hoang không thiếu, bỏ con không thiếu, cô nhi nhiều vô kể. Vô Ảnh Cung không thiếu sát thủ, thậm chí là có rất nhiều nữ sát thủ. Dù những sát thủ ấy là nam hay nữ, đa số họ sinh ra đã là cô nhi, sự xuất hiện của họ không ai mong đợi, sống không ai biết mặt thật, chết không người biết tên. Tinh Ngân nhắm mắt nhớ lại đêm trước khi trận chiến xảy ra. Suốt thời gian tổ đội, có một sát thủ thường ngồi cạnh cô, hai người cũng chẳng nói gì. Đêm cuối, trước khi tổ đội mười người đến nơi có mục tiêu để hành thích, người đó nói: \"Sau lần nhiệm vụ này chưa chắc chúng ta đã gặp lại, cho dù có may mắn cộng tác cũng không biết mặt. Tôi là Tiếu Khanh.\" \"Tiếu Khanh? Vĩnh Danh song cầm?\" \"Vốn dĩ diễn vai tài tử phong lưu ở Vĩnh Danh, không ngờ lại được các cô nương ái mộ tiếng đàn đến vậy.\" \"Vĩnh Danh song cầm, Tiếu Khanh điểm đàn như thần y cứu thế, Giang Triều tấu khúc ý chí chìm u mê.\" \"Ha ha, mọi người phóng đại thôi.\" \"Tôi từng đến Vĩnh Danh làm nhiệm vụ, từng chờ đêm nhạc hội, xem hai người đánh đàn...!Tôi tên Tinh Ngân.\" \"Cô chính là người tay không giật đứt đầu thủ lĩnh bang Dạ Đề?\" \"Tin đồn thôi.\" \"Hắn rất mạnh, làm sao cô giết được.\" \"Trong bang hắn có một kẻ bất mãn, hắn và thủ hạ đánh nhau. Tôi nhân lúc hắn suy yếu, từ phía sau nắm lấy đầu hắn, đổ người hắn về phía đao của tên thủ hạ.....\" \"Nhỡ như trượt tay...\"."
+    },
+    {
+      "id": "28",
+      "storyId": 10,
+      "chapterName": "Chapter 1",
+      "content": "\"Trẫm xem Lâm Bắc Phàm phẩm học giỏi nhiều mặt, tài đức vẹn toàn, tại thi đình bên trong độc chiếm vị trí đầu, là một vị hiếm có rường cột chi tài! Cho nên trẫm phong Lâm Bắc Phàm làm năm nay tân khoa trạng nguyên!\" Rộng rãi trang nghiêm trên Kim Loan điện, vang lên một cái uy nghiêm giọng nữ. \"Tạ chủ long ân!\" Lâm Bắc Phàm cất cao giọng nói. Trong lòng cuồng hỉ không thôi! Cố gắng ba năm, cuối cùng đã tới thu hoạch thời điểm! Hắn nhưng thật ra là một cái người xuyên việt, ba năm trước đây xuyên việt đến cái này một cái nguy hiểm trùng điệp cao võ thế giới, trói chặt một cái hệ thống. Hệ thống nói cho hắn biết, chỉ có làm quan, hệ thống công năng mới sẽ mở ra. Hệ thống khởi động về sau, liền có thể phụ trợ hắn nhanh chóng trở nên mạnh mẽ. Sau đó, vì ở cái này nguy hiểm thế giới làm ở trong có chỗ đứng, đồng thời cũng vì mở ra hệ thống, Lâm Bắc Phàm hăng hái đọc sách. Vẻn vẹn chỉ dùng thời gian ba năm, liền trúng liền tam nguyên, trở thành tân khoa trạng nguyên! Trở thành tân khoa trạng nguyên, cũng liền mang ý nghĩa hắn có thể làm quan! Cho nên, hắn cao hứng phi thường, không kịp chờ đợi trong lòng nói: \"Hệ thống, có phải hay không cái kia khởi động?\" \"Đinh! Kí chủ đã đạt thành hệ thống khởi động điều kiện, hệ thống chính thức khởi động!\" \"Đinh! Kí chủ ngươi tốt, siêu cấp tham quan hệ thống phục vụ cho ngươi!\" \"Siêu cấp tham quan hệ thống?\" Lâm Bắc Phàm tâm lý dâng lên dự cảm không tốt: \"Hệ thống, ngươi sẽ không để cho ta làm tham quan a?\" \"Đinh! Kí chủ lý giải vô cùng đúng chỗ, bản hệ thống cũng là phụ trợ kí chủ trở thành một tên siêu cấp cự tham!\" \"Chỉ cần kí chủ ở nhiệm kỳ ở giữa, tham càng nhiều, hệ thống khen thưởng liền càng phong phú! Có lại không giới hạn trong thực lực, công pháp các loại, trở thành Lục Địa Thần Tiên, hoặc là siêu việt Lục Địa Thần Tiên đều không là giấc mơ!\" Lâm Bắc Phàm nghiến răng nghiến lợi: \"Đáng chết hệ thống, đây là muốn giết chết ta nha!\" Nói thật, ở cái thế giới này làm quan là một kiện chuyện vô cùng nguy hiểm, nhất là làm tham quan! Bởi vì đây là một cái cao võ thế giới, thực lực cường đại võ giả nhiều lắm! Hiệp chi dùng võ phạm cấm, có một chút thực lực võ giả, đều không đem làm quan để vào mắt! Nhất là tham quan, hận không thể giết cho sướng!"
+    },
+    {
+      "id": "29",
+      "storyId": 10,
+      "chapterName": "Chapter 2",
+      "content": "Tiểu quan viên ngẩng đầu lên, chấn kinh nhìn lấy Lâm Bắc Phàm. Tuyệt đối nghĩ không ra, đối phương trong miệng thế mà nói lời như vậy! Muốn tham liền tham lớn! Đem số lẻ cho bệ hạ! Còn lại bọn họ phân! Đây là cỡ nào cả gan làm loạn một câu nha! Hắn làm quan hơn 20 năm qua, thanh niên tài tuấn thấy qua không ít, tham quan ô lại cũng gặp không ít, cho tới bây giờ liền chưa từng gặp qua lớn gan như vậy bao thiên một người! Chính mình ăn thịt, cho hoàng đế bệ hạ ăn canh, đây là không biết chữ \"Chết\" viết như thế nào! Nếu như bị điều tra ra, tuyệt đối đầu người rơi xuống đất! \"Triệu đại nhân, ngươi thế nào?\" Lâm Bắc Phàm cười híp mắt hỏi một câu: \"Nếu như ngươi không nói lời nào, ta coi như ngươi chấp nhận!\" Tiểu quan viên dọa đến toàn thân run rẩy: \"Không, ta không có ngầm thừa nhận!\" \"Không có ngầm thừa nhận ngươi ngược lại là nói chuyện nha!\" \"Lâm đại nhân, ngươi nhìn, 200 vạn lượng có phải hay không nhiều lắm? Nếu như bị điều tra ra sẽ rơi đầu!\" Cái kia tên quan viên thận trọng nói: \"Ngươi nhìn, 50 vạn lượng được hay không? Lại nhiều mà nói sẽ rất nguy hiểm!\" Lâm Bắc Phàm vô cùng bất mãn: \"50 vạn lượng sao đủ a? Cùng mọi người một phần, tiến ta hầu bao cũng liền 30 vạn lượng! Cái này kinh thành tấc đất tấc vàng, muốn mua một gian tốt tòa nhà đều muốn mấy vạn lượng, không đủ dùng a!\" \"Thế nhưng là quá tham, thật không được a. . .\" Tiểu quan viên dọa đến toàn thân mồ hôi đều xuất hiện. \"Bớt nói nhảm, ta chỉ hỏi ngươi một câu, muốn hay không?\" \"Hạ quan từ bỏ, hạ quan từ bỏ, mời đại nhân tha ta một mạng đi!\" Đối phương liền vội vàng nói, cái này một khoản tiền hắn một phần cũng không dám muốn, hắn sẽ bị Lâm Bắc Phàm liên lụy chết. \"Hừ, nhát như chuột! Ngươi không muốn ta muốn!\" Lâm Bắc Phàm nhận lấy sổ sách, xé toang vài trang giấy về sau, đem phía trên con số đổi thành 20 vạn, sau đó còn trở về. \"Dạng này liền đại công cáo thành!\" Lâm Bắc Phàm hài lòng nhẹ gật đầu, trừng vị này tiểu quan viên liếc một chút: \"Chuyện này liền xem như không biết, cẩn thận ta đem ngươi khai ra đi, mọi người cùng nhau xong đời!\" \"Là. . . Lâm đại nhân!\" Tiểu quan viên vẻ mặt đau khổ, như cha mẹ chết. Lâm Bắc Phàm đi trở về, đem lượng rương tràn đầy châu báu cái rương hợp tới, kêu một tiếng."
+    },
+    {
+      "id": "30",
+      "storyId": 10,
+      "chapterName": "Chapter 3",
+      "content": "Lâm Bắc Phàm hiện tại liền ở vào cái này một cái cấp bậc, thất phẩm đỉnh phong! Mạnh hơn phổ thông Hậu Thiên cường giả, nhưng là so Tiên Thiên cường giả lại kém một bậc, ở vào nửa Tiên Thiên trạng thái. Chủ yếu vẫn là bởi vì hắn dung hợp Trấn Nam Vương thế tử khuôn mẫu. Hắn dưới cơ duyên xảo hợp tu được 《 Bắc Minh Thần Công 》 《 Lăng Ba Vi Bộ 》 chờ thần công, đồng thời thu hoạch được một thân hùng hậu nội lực, thật có thể nói là là hồng phúc tề thiên. Nhưng là, bản thân hắn cũng không thích võ công, từ nhỏ chưa từng học qua võ. Cho nên, võ công học được thưa thớt, cơ sở không tốn sức, làm hại hắn cũng bị liên lụy. Không phải vậy, hắn khả năng lại tiến cấp một, thành là chân chính Tiên Thiên cường giả! \"Được rồi, chiếm được là nhờ vận may của ta mất đi là do số mệnh của ta! Trấn Nam Vương thế tử khuôn mẫu có thể nói tính so sánh giá cả phi thường cao một cái khuôn mẫu, nắm giữ tam đại thần công, còn có một thân hùng hậu nội lực! Chỉ phải thật tốt tu luyện, có cơ hội tu luyện tới Tiên Thiên đỉnh phong!\" \"Lại nói, về sau còn có cơ hội dung hợp những cường giả khác khuôn mẫu!\" \"Bất quá cái này một đợt, ăn đầy đủ mập, đáng giá!\" Lâm Bắc Phàm cao hứng phi thường. Hắn không ái tài, nhưng là tiếc mệnh. Tại cái này một cái sắp đại loạn cao võ thế giới bên trong, không có có võ công bạn thân là rất nguy hiểm! Cho nên hắn mới bốc lên mất đầu nguy hiểm, tham phía dưới 200 vạn! Bây giờ xem ra, hết thảy đáng giá! Nắm giữ 7 phẩm đỉnh phong vũ lực, mặc dù nói không có vô địch, nhưng là chỉ không được tội Tiên Thiên lấy trở lên cường giả, cái kia liền có thể sống được rất thoải mái. Cùng lắm thì cũng là chạy mà! Hắn nắm giữ 《 Lăng Ba Vi Bộ 》 cái này đỉnh cấp khinh công, am hiểu nhất chạy trốn! Tông Sư trở xuống, nghỉ muốn đuổi theo hắn! Cho nên, nỗ lực phấn đấu ba năm, hắn rốt cục ở cái thế giới này bên trong có sức tự vệ! Lâm Bắc Phàm từ trên giường nhảy xuống tới, mở ra 2 cái rương, trong rương kim ngân tài bảo thả ra hao quang lộng lẫy chói mắt, khiến người ta hận không thể đoạt chi. Ngoài cửa sổ bóng trắng híp mắt lại, xem ra tình báo không lầm. Lâm Bắc Phàm, thật tham ô 200 vạn lượng vàng bạc châu báu. Tiểu quan, cự tham!"
+    },
+    {
+      "id": "31",
+      "storyId": 11,
+      "chapterName": "Chapter 1",
+      "content": "Thiên Hoang đại lục Đại Nam QuốcHải Vân sơn mạchTà dương chiếu xuống đại địa , toàn bộ thiên địa bắt đầu chuyển đổi , hắc bạch giao nhau .Tại một dòng suối đang chảy róc rách , một thiếu niên tầm mười hai mười ba tuổi đang lấy một cành cây vuốt nhọn , mặc trên người vải thô chấp vá lung tung .Trong đôi mắt cất chứa thương cảm , bất đắc dĩ cùng kiên nghị .*Phốc* Một con cá nhỏ bị hắn dùng cành cây ghim lấy đem lên bờ , lại tiếp tục xuống nước .\" chỉ có một con phải bắt thêm ít nhất một con nữa ,nếu không tối nay nhị muội tam đệ muốn chịu đói rồi \"Lê Hạo nỉ non một tiếng, ánh mắt loé lên ánh sáng nỗi lên một tia đấu chí .Thiếu niên này Gọi Lê Hạo gia ở Minh Nam Thành gia tộc kinh thương dược tề cũng coi như gia cảnh phú quý , nếu như không có hơn hai năm trước, Bắc đại lục Đại Bắc Quốc Đánh đến Minh Nam Thành vào thành cướp bóc , hai quốc bắc nam từ khai quốc đánh đến bây giờ tích sâu hận thù nước sông hoàng hà cũng khó tẩy sạch .Hai quốc giao chiến khổ vẫn là bá tính , dẫn đến gia tộc mấy trăm tộc nhân Lê Hạo chỉ còn hắn cùng đệ đệ muội muội còn sống, may mắn hắn cùng nhị muội cùng tam đệ hắn đang đi chơi ngoài thành , đến khi mệt mỏi trở về mới thoát chết ,khi về đến thành chỉ thấy khắp nơi ánh lửa , thi thể , đem thi thể phụ mẫu chôn cất về sau hắn liền dắt theo đệ muội trốn chết , còn những thi thể người khác hắn cũng không có cách nào chôn từng người , liền đem cả thành đều đốt coi như mai táng cho bọn hắn .Hai Quốc giao chiến lại thêm sơn tặc thổ phỉ hoành hành cướp bóc khắp nơi, bang phái cắt cứ xưng hùng. Tuổi nhỏ Tai nạn kể từ đó Lê Hạo dẫn theo đệ đệ , muội muội tám tuổi thê thảm trốn chết hành trình bởi vì chiến tranh quân đội cũng như cường đạo ah, mới đó đã được hai năm .Dọc đường đói bụng chỉ cần có thể ăn cỏ dại hắn cũng nuốt để sống .Có một ngày lúc hắn bắt được một con thỏ chuẩn bị nướng thì những kẻ chạy nạn khác cướp đi , còn cho hắn thêm một trận đánh đập tàn nhẫn , năm tháng trước hắn mò được hai mươi văn tiền từ thi thể người chết, cũng như lần trước hắn bị một trận đánh đập tàn nhẫn, kể từ hôm đó hắn hiểu thứ tốt không để lộ bên ngoài trừ khi ngươi có thực lực bảo hộ. Lại có một lần hắn thấy một thanh niên trên lưng vác kiếm , chém chết một nhóm dân chạy nạn , cướp con gái của nhóm dân đó , Lê Hạo rốt cuộc minh bạch loạn thế nhân mạng như rơm rác không đáng một đồng a, chỉ có quyền đầu mạnh mới có vốn liếng sống trong loạn thế này , nghe nói Nguyên Châu thành có môn phái giang hồ tuyển nhận đệ tử , đãi ngộ vô cùng tốt cẩm y ngọc thực , được học tập võ công , nghe ngóng đường đi xong, liền dứt khoát dẫn đệ đệ muội muội chạy xuyên qua Hải Vân sơn mạch tới Nguyên Châu Thành."
+    },
+    {
+      "id": "32",
+      "storyId": 11,
+      "chapterName": "Chapter 2",
+      "content": "Kể từ ngày hắn chứng kiến tên võ giả thanh niên Lê Hạo liền quyết tâm thành một võ giả , biến bản thân càng thêm cường đại , mới có thể sống trong loạn thế này .Cửa thành ,không có gì nghiêm khắc kiểm tra , rất nhanh Lê Hạo thuận thuận lợi lợi vào thành, vừa vào thành hắn phát hiện cùng bên ngoài bất đồng , trên đường lớn dòng người đông đúc , mỗi người quần áo đẹp đẽ phú quý , bốn phía âm thanh rao hàng để Lê Hạo một hồi kinh ngạc , Minh Nam Thành của hắn chỉ là cái tiểu thành cùng cái trấn cũng không sai biệt lắm , bao giờ thấy tràng cảnh như vậy , hồi lâu sau bốn phía ánh mắt khinh miệt nhìn hắn , Lê Lân cùng Lê Hi Tuyết sợ hãi rúc vào người hắn khiến cho hắn phục hồi tinh thần .\" Aizz vẫn là còn quá non ah\" Lê Hạo trong lòng nói thầm , tự trách bản thân biểu hiện như một đứa bé đồng dạng , nhưng hắn quên mất thật ra thì hắn vẫn còn là một đứa bé theo đệ muội chạy nhanh đến thành tây hẻo lánh không người , phát hiện một cái miếu hoang để hai tiểu chút chít ở lại , hắn bắt đầu chạy ngược lại đi thám thính tin vào môn phái , phải nghe ngóng môn phái tin tức , mà ở tin tức ở đâu dễ nghe ngóng nhất tự nhiên là tửu lâu , tam giáo cửu lưu người gì cũng có .Vũ Liên tửu lâu , Lê Hạo đứng sát vách tường , vểnh lỗ tai nghe âm thanh ầm ĩ đàm tiếu bên trong tửu lâu , khách nhân ra ra vào vào. Lê Hạo đứng ba canh giờ mới nghe được tin tức hữu dụng .\" Lâm Hiên, nhà ngươi tiểu tử năm nay mười hai tuổi tuổi rồi ah, bị loại hai lần rồi ah, năm ngày sau Lam Vân Môn tuyển nhận đệ tử , con ngươi phải cố gắng ah .\"\" không cần ngươi lo lắng , vẫn là lo tiêu tử nhà ngươi được rồi. hết ăn lại nằm không biết có đủ sức chạy lên núi không ah.\"\" aizz năm nay không biết có bao nhiều người có phúc khí vào được môn phái , học võ nghệ\"Nghe xong tin tức hữu dụng cũng đã không cần thiết ở lại , quay người rời đi .Lê Hạo mua ba cái bánh bao , một xiên hồ lô ngào đường , cùng ba bộ vải thô áo đuôi ngắn, liền quay lại miếu hoang , mặt dù hắn lang bạc cất dấu được gần một lượng bạc , nhưng cũng không thể tiêu hoang phí, còn phải chờ thêm năm ngày , nhiêu đây ngân lượng chỉ đủ để ba huynh muội bọn hắn sống đến môn phái khai sơn thu đệ tử .Đi trên đường vừa đi Lê Hạo vui vẻ thầm nghĩ\" Kẹo Hồ lô cho muội muội sẽ rất vui mừng ah , rất lâu Tuyết nhi chưa được ăn rồi , sắc trời sắp tối phải về không thể cho bọn hắn lo lắng đi loạn rất khó tìm."
+    },
+    {
+      "id": "33",
+      "storyId": 11,
+      "chapterName": "Chapter 3",
+      "content": "Bất tri bất giác Lê Hạo ba huynh muội cũng đã tới sườn núi , Nội tâm không hiểu sinh ra một loại cảm xúc cảnh giác cùng cẩn thận , loại này cảm xúc về sau nhưng cứu mạng hắn mấy lần .Dưới chân núi nói chuyện lão giả đứng ở sườn núi không nhúc nhích , phía sau hắn đã có hơn một trăm cái thiếu niên , Lê Hạo kéo lấy thân thể mệt mỏi cùng Hi Tuyết , Lê Lân đến sau lưng lão giả ngồi bệt xuống bắt đầu thở hỗn lúc sắp hết thời gian , Lê Hạo hơi thở cũng bình thường trờ lại , chợt nghe lão giả thanh âm :\" Phế vật , lâu như vậy còn không đến nỗi sườn núi , học võ quan trọng nhất là chịu khổ , chút ít khổ cũng không chịu được đúng là phế vật , đem hết người vẫn chưa lên tới đuổi hết cho ta \"Lê Hạo nghe được trong lòng thầm kêu may mắn khá tốt còn kịp thời gian, sau đó Lê Hạo đứng dậy lôi kéo Hi Tuyết , Lê Lân đứng sau mọi người. Lão già xoay người ánh mắt như kiếm , các thiếu niên đều cuối đầu xuống , mấy câu vừa nói phảng phất như chỉ cây dâu mắng cây hoè , ám chỉ bọn một trăm thiếu niên được an bài xong xuôi nghỉ ngơi. Buổi tối , trên núi trong phòng , Lê Hạo cùng Hai cái tiểu chút chít đều hưng phấn khó ngủ , phấn khởi thảo luận về sau giang hồ sinh hoạt .Đêm khuya , Cùng Lê Lân , Lê Hi Tuyết náo nhiệt mội hồi rốt cuộc đuổi được bọn hắn đi Hạo dựa vào cửa sổ , ngoài cửa sổ là đầy trời sao , lấp loé chiếu sáng. Lê Hạo nhớ tới khi còn bên phụ mẫu sinh hoạt , nhớ tới hơn hai năm lang thang sinh hoạt từng chuyện. Cuối cùng đối với tương lai kỳ vọng bất tri bất giác ngủ rồi , khoé miệng còn mang một vòng mĩm cười .Hôm sau , trời vừa sáng , Lê Hạo các thiếu niên đã bị đánh thức ăn điểm tâm. Cơm nước xong xuôi về sau một cái thanh niên mặc ngoại môn đệ tử áo bào dẫn đi .Trên đường , một cái thiếu niên bước lại gần thanh niên ôm quyền , nịnh nọt : \" Tiểu đệ Diệp Trí kính xin đại ca nhiều hơn chiếu cố ah.\" Chứng kiến Diệp Trí trên mặt nịnh nọt , thanh niên không thích nhưng vẫn ôm quyền nói : \" khách khí ,khách khí ..\" hai người bắt đầu trò người nói cũng không cố ý đè thấp thanh âm , Lê Hạo cũng nghe được. Nguyên lai bọn hắn đang đến tàng võ các , danh như ý nghĩa là nơi cất chứa võ học bí tịch ah, nghe đến võ học Lê Hạo nội tâm không khỏi nóng lên , hôm qua hắn cũng nghe ngóng được võ học sự tình."
+    },
+    {
+      "id": "34",
+      "storyId": 12,
+      "chapterName": "Chapter 1",
+      "content": "Truyền thuyết kể răng, mỗi khi Thiên Đạo tiêu vong, luân hồi đi đến điểm cuối, trong giới vực vô tận sẽ xuất hiện mười con \"Cự Thú Thái Cổ Hỗn Độn\". Bọn chúng có thân thể khổng lồ có thể sánh với Thần Vực, nơi bọn chúng đi đến trời long đất lở, thời không điên đảo, tinh hà suy vong, chúng sinh gặp nạn. Sau khi huỷ diệt thế giới cũ, bọn chúng sẽ mai danh ẩn tích, sau đó thiên địa tái sinh, trật tự xây dựng lại, sinh mệnh xuất hiện một lần nữa, thế giới mới ra đời. Học cung Viêm Hoàng. Đêm nay mây đen phủ kín, sấm chớp rền vang, mưa như trút nước. Đệ tử học cung \"Lý Tuấn Hy\" đang ngồi trên lưng Bạn Sinh Thú \"chim đại bàng bốn cánh vàng\", xuyên qua màn mưa dày. đặc, dừng lại trước một căn phòng. Két! Cửa phòng mở ra, một thiếu nữ váy trẳng vóc người lả lướt xuất hiện, một tay cầm tà váy, một tay che ô giấy dầu, đứng trong nước mưa bản tung toé, trên mặt mang theo nụ cười dịu dàng, đi đến che mưa cho Lý Tuấn Hy. \"Tình Tình, kỷ niệm một năm vui vẻ\", hai người bước nhanh vào trong nhà, vừa đi vào, Lý Tuấn Hy đã lấy ra một cây trâm ngọc đặt trong tay nàng ta. \"Đẹp quá, đeo cho ta đi\", Mộc Tình Tình vui mừng và kinh ngạc nói. Hai người đứng trước gương. Lý Tuấn Hy cài trâm ngọc lên tóc nàng ta, véo mặt nàng ta một cái. Hắn không nhìn thấy trong mắt Mộc Tình Tình loé lên vẻ mất kiên nhẫn. Bên ngoài tiếng sấm rền vang, bầu không khí trong phòng cũng vô cùng mập mờ. \"Tuấn Hy, tối nay, ta muốn trở thành nữ nhân\", nàng ta cúi đầu, khuôn mặt đã ửng đỏ, lộ vẻ xinh đẹp quyến rũ. \"Là sao?\" \"Ta muốn dâng mình cho chàng\". Trong lúc nói chuyện, nàng ta đã duỗi tay chủ động c ởi quần áo, làn da của nàng ta vô cùng mềm mại, khiến người ta say mê. Nhưng Lý Tuấn Hy cảm thấy rất kỳ lạ."
+    },
+    {
+      "id": "35",
+      "storyId": 12,
+      "chapterName": "Chapter 2",
+      "content": "Nghe nói chiến hồn Thánh Thú có thể tạo ra cường giả ngự trị chúng sinhI Chiến hồn Thánh Thú mà Lý Tuấn Hy lấy được đã bị Bạn Sinh Thú Kim Vũ luyện hoá vào trong lông chim của nó rồi. \"Ta không thân thiết với ai ở Diệm Đô này, chỉ có Mộc Tình Tình là thân thiết với ta nhất, biết chuyện ta lấy được báu vật\". \"Chỉ một chiến hồn Thánh Thú đã khiến nàng cấu kết với một tên con cháu nhà giàu, đá ta đi?\" Hắn đã bị sấm chớp bao vây, không thể di chuyển, chỉ có thể đứng nhìn lông chim trên người Kim Vũ bị con chim ưng lôi điện kia rút ra từng cái một, nhìn thấy cơ thể nó đầm đìa máu tươi, hô lên thảm thiết với hắn. Sự khao khát và đau đớn trong mắt nó khiến trái tim Lý Tuấn Hy như bị xé rách. Trên đời này còn chuyện gì khó chịu hơn việc nhìn thấy huynh đệ của mình bị người khác xẻ thịt ngay trước mắt mà không thể làm gì chứ? \"Lâm Tiêu Đình, Mộc Tình Tình!\", hai mắt Lý Tuấn Hy hằn lên tia máu, lửa giận cuộn trào trong lồ ng ngực. Mưa to như trút nước, cơ thể Mộc Tình Tình đã ướt đẫm, nàng ta đi tới bên cạnh Lý Tuấn Hy, nhìn hẳn bằng ánh mắt kiêu ngạo. \"Tuấn Hy, ngươi cam chịu số phận đi. Năng lực và gia thế của ngươi không xứng với ta và chiến hồn Thánh Thú đâu\", Mộc Tình Tình nói. \"Vậy cô cho rằng bây giờ cô chim sẻ bay lên cành cao. thành phượng hoàng rồi à?\" \"Không phải hay sao? Đình ca đã đồng ý giúp ta trở thành đệ tử Thiên Phủ rồi\", nàng ta lạnh lùng nhìn hẳn: \"Lý Tuấn Hy, sau khi đến Diệm Đô, ta phát hiện chúng ta quá thấp kém. Từ bây giờ, ngươi sẽ trở nên mờ nhạt trong mắt mọi người, còn ta bước lên đỉnh cao, coi như ngươi trả giá vì tình yêu để ta được như ý nguyện đi, có thể không?\" \"Mộc Tình Tình, sớm muộn gì cô cũng sẽ chết một cách thê thảm\". \"Ồ, tiếc là không liên quan đến ngươi nữa rồi, trở về thành Ly Hoả của ngươi đi, ta tha mạng cho ngươi, coi như đền ơn cứu mạng của ngươi, từ nay chúng ta không ai nợ ai\", nàng ta ngồi xổm xuống, chỉnh mái tóc rối bời giúp Lý Tuấn Hy: \"Cảm ơn sự trả giá của ngươi, từ nhỏ đến lớn, ta đã bị bắt nạt quá nhiều rồi, bắt đầu từ hôm nay, ta muốn những người từng xem thường ta phải quỳ xuống nói chuyện với ta\"."
+    },
+    {
+      "id": "36",
+      "storyId": 12,
+      "chapterName": "Chapter 3",
+      "content": "Một bóng dáng xuất hiện trước mặt Lý Tuấn Hy. Ỷ?? Cự thú đáng sợ trong tưởng tượng không hề tồn tại! Lúc này thứ bò ra từ trong vỏ trứng, ngã trái ngã phải trên giường lại là một con gà con! Hơn nữa còn là một con gà vừa vàng vừa non nớt. Lý Tuấn Hy nghĩ tới một chữ để miêu tả nó - cho vào. miệng là tan. \"Rõ ràng ngươi chỉ là một con gà, còn làm ra khung cảnh như hung thú hồng hoang xuất thế làm gì\", Lý Tuấn Hy đau đầu nói. \"Cái gì? Nói ai là gà đấy? Ngươi xem thường ta hả? Lão tử bóp vỡ trứng của ngươi bây giờ!\", con gà vàng kia đột nhiên nhảy lên, ngẩng cao cổ, nhìn Lý Tuấn Hy một cách hung dữ, hai mắt như sắp bản ra lửa. Một con gà mới ra đời lại xưng là lão tử với hắn? Bạn Sinh Thú có thể tiến hành kết nối linh hồn với Ngự Thú Sư, nhưng loại có thể nói chuyện ngay lập tức cũng không nhiều, hình như chỉ có Bạn Sinh Thú giống chim anh vũ là làm được, con gà này giống với chim anh vũ, có thể nói chuyện cũng rất bình thường. Lý Tuấn Hy quan sát một lúc, hăn nhìn thấy một điểm sáng trong đôi mắt nhỏ của con gà này, đó là một \"tinh điểm\". \"Lúc nở ra, trong mät Bạn Sinh Thú có tinh điểm, vậy nó là Bạn Sinh Thú cấp bậc gì?\" Nhớ lúc Kim Vũ vừa nở ra, có tổng cộng 5 tinh điểm xuất hiện, chứng minh nó là Bạn Sinh Thú cấp năm khá hiếm có ở thành Ly Hoả. Cấp bậc của Bạn Sinh Thú sẽ quyết định mức độ trưởng thành của nó, cũng đại diện giới hạn tu luyện của Ngự Thú Sư. Bạn Sinh Thú cấp năm đủ để Lý Tuấn Hy trở thành thiên tài hàng đầu thành Ly Hoả trong ba trăm năm qua rồi. Con gà vàng này có một tinh điểm, chứng tỏ nó chỉ là một con Bạn Sinh Thú cấp một đáng thương. \"Đợi đãi\" Khi Lý Tuấn Hy ngây người nhìn tinh điểm này, hắn chợt thấy bất ngờ, không biết do ảo giác hay nguyên nhân gì, mà tỉnh điểm đó lại tản ra trước mắt hẳn. Mấy cái, mười mấy cái, hơn trăm cái, sau đó là hàng nghìn hàng vạn cái tinh điểm! Đến cuối cùng, tinh điểm này biến thành một tinh vực to lớn trong mắt Lý Tuấn Hy! Trong tinh vực này có một nghìn tỷ hằng tinh đang bốc. cháy. Bọn chúng ở cách rất xa, nhưng lúc này, ánh sáng mà chúng kết hợp lại đã chiếu đến trước mắt Lý Tuấn Hy."
+    },
+    {
+      "id": "37",
+      "storyId": 13,
+      "chapterName": "Chapter 1",
+      "content": "Bình nguyên mười sáu năm, là cực kỳ náo động một cái năm đầu, từ miếu đường, cho tới giang hồ dân gian, đều bị loạn tượng mọc thành cụm. Trong triều đình, khắp nơi thế lực mắt thấy hoàng đế thân thể ngày càng sa sút, bắt đầu tranh đấu gay gắt trữ quân một vị, địa phương thế lực ngo ngoe rục rịch, tái ngoại man di như hổ rình mồi. Giang hồ bên trong cũng không thái bình, chính tà hai phái giương cung bạt kiếm, lớn lớn bé bé phân tranh không ngừng, đầu tiên là tà môn đệ nhất đại giáo Lạc Ảnh Giáo bốn phía bắt giữ dân gian đứa bé, lấy này tâm đầu huyết rèn luyện đan dược. Tin tức truyền ra, giang hồ phía trên một mảnh ồ lên, lên án công khai thanh nổi lên bốn phía, ngay sau đó các đại môn phái cùng lực hiệp khế kết thành liên minh nhất cử phạt chi, cùng năm, từ Thiên Cực Tông cầm đầu các đại môn phái liên minh thành công đánh bại Lạc Ảnh Giáo, này hạ giáo chúng bị kể hết tiêu diệt, giáo chủ Thi Thanh Hàn thân bị trọng thương không biết tung tích, đến tận đây, trên giang hồ nghênh đón cho thấy thượng gió êm sóng lặng. Mà câu chuyện của chúng ta, lại muốn từ chúng môn phái kết thành liên minh thảo phạt Lạc Ảnh Giáo bắt đầu nói lên. ...... Bình nguyên mười sáu năm tháng tư, Tây Bắc khu vực một cái gọi là Hoài Liễu thôn trang nhỏ trung, tóc trắng xoá lão thôn trưởng gom đủ toàn thôn 56 khẩu người, bọn họ chính thương nghị ngày mai muốn đem nhà ai nam đồng giao cho Lạc Ảnh Tử hắc giáp, nhưng mà đối mặt như thế trầm trọng lựa chọn, ở đây mọi người đều đều lặng ngắt như tờ. Rốt cuộc là một vị phụ nữ và trẻ em kìm nén không được nỗi lòng, ô ô yết yết khóc lên, nàng bên cạnh nam nhân gục xuống hạ mặt, thô thanh thô khí mà quát: \"Khóc cái gì khóc, ngươi này bà nương liền biết khóc, câm miệng!\""
+    },
+    {
+      "id": "38",
+      "storyId": 13,
+      "chapterName": "Chapter 2",
+      "content": "Chỉ thấy hắn từ trong lòng ngực móc ra một bao bột phấn trạng đồ vật, hướng vò rượu đảo đi. Một bên nam tử hạ giọng hỏi: \"Lão Lục, ngươi xác định này dược có thể hành? Kia Phó lão hán chính là cái người biết võ, nếu là không thành công chúng ta nhưng không hảo trái cây ăn.\" Bị gọi là lão Lục nam tử đắc ý mà cười cười, \"Yên tâm, liền tính là mười đầu ngưu cũng có thể cho hắn phóng đảo lạc, nhưng thật ra các ngươi, đợi lát nữa tự nhiên điểm, đừng lòi.\" Kia hai người liếc nhau sau gật gật đầu. Cuối cùng ba người thương nghị xong, thổi tắt đèn, đề rượu ra cửa đi. Đãi bọn họ đi hướng cửa thôn thân ảnh biến mất ở trong bóng đêm sau, một bên nhà xí đi ra một vị thân hình tiêu điều lão nhân, là kia lão thôn trưởng, hắn nặng nề mà thở dài, thẳng tắp lắc đầu, \"Tạo nghiệt a, tạo nghiệt.\" Lúc này Hoài Liễu thôn cửa thôn, Phó gia tứ khẩu quần áo nhẹ giản tiện chờ ở chỗ này, nhưng trừ bỏ bọn họ, lại là không thấy mặt khác người, chỉ có gió đêm nhẹ phẩy mà qua lá liễu vuốt ve thanh. Phó Phái Bạch tự biết trong thôn những người này có bao nhiêu ngoan cố cứng nhắc, nàng đánh ngáp nói: \"Cha, chúng ta đi thôi, bọn họ sẽ không tới.\" Phó lão hán nhíu lại mi, trầm giọng nói: \"Chờ một chút.\" Phó Phái Bạch bĩu môi, đi đậu bên cạnh chính ngủ gà ngủ gật Phó Gia Hứa. Mới vừa tám tuổi nam hài chỉ tới Phó Phái Bạch vòng eo cao, nàng sờ sờ đệ đệ đầu, cười hỏi: \"Tiểu Gia Hứa vây lạp?\" Phó Gia Hứa không biết bọn họ muốn đi đâu, chỉ biết đang ngủ ngon lành liền bị cha kéo lên, nói muốn ra xa nhà đi, hắn tính tình luôn luôn mềm, cũng không nghịch ngợm chơi tính tình, cha mẹ cùng a tỷ nói cái gì hắn liền làm cái đó, nghe lời cực kỳ."
+    },
+    {
+      "id": "39",
+      "storyId": 13,
+      "chapterName": "Chapter 3",
+      "content": "\"Phong chủ, đều kiểm tra qua, không một may mắn còn tồn tại, như thế nào xử lý?\" Một đạo thanh lãnh như tuyền giọng nữ vang lên, \"Ngay tại chỗ vùi lấp.\" \"Đúng vậy.\" Nàng nháy mắt mở to mắt, phiên đứng dậy tới, liều mạng hướng về phía trước nhảy, yết hầu phát ra mơ hồ không rõ nức nở. Nàng muốn sống, nàng muốn sống sót, sống sót vì người nhà báo thù, báo thù! Nàng muốn giết sạch thế gian sở hữu tà ma ngoại đạo! Nàng trong lòng giờ phút này chỉ có như vậy một cái ý tưởng, nàng muốn sống sót báo xong thù lại đi xuống tìm cha mẹ Gia Hứa đoàn tụ, bằng không nàng chết không nhắm mắt! Có lẽ là trời xanh có mắt, nàng nhảy lên mỏng manh thanh âm rốt cuộc bị người phát hiện, kia nói thanh lãnh giọng nữ lại lần nữa vang lên, \"Bên kia có động tĩnh, đi xem.\" Thực mau liền có người đạp nặng nề bước chân đã đi tới, đè ở tấm ván gỗ thượng thi thể bị dịch khai, tấm ván gỗ bị mở ra một cái chớp mắt, ánh sáng một lần nữa bao phủ tiến hầm, chói mắt ánh mặt trời làm Phó Phái Bạch không mở ra được mắt, nàng nhíu mày, nhắm hai mắt, nghe được trên đầu có người nói, \"Bẩm báo phong chủ, nơi này còn có người tồn tại.\" Nàng thật vất vả thích ứng ánh sáng, mở to mắt, ngẩng đầu nhìn lại, mơ hồ trong tầm mắt có một cái mơ hồ nữ tử thân ảnh, người nọ đứng ở phản quang hạ, quang ảnh trọng điệp, nàng thấy không rõ đối phương mặt, thẳng đến nàng trước mắt hoàn toàn thanh minh, nàng mới có thể nhìn thấy đối phương chân dung. Kia tuổi trẻ nữ tử người mặc một thân thuần tịnh bạch y, mặt mày thon dài, khuôn mặt thanh lãnh, cặp kia màu nâu nhạt đồng tử phảng phất một đôi lưu li đá quý, trong suốt thông thấu. Phó Phái Bạch có trong nháy mắt hoảng hốt, ở nàng trưởng thành tiền mười 6 năm, còn chưa bao giờ gặp qua sinh đến như thế đẹp người, đem chi so sánh trích tiên, cũng không chút nào vì quá."
+    },
+    {
+      "id": "40",
+      "storyId": 14,
+      "chapterName": "Chapter 1",
+      "content": "Kiếm Tông, Huyền Không sơn, Tạp Dịch phong.Với tư cách là tông phái lớn nổi danh ở Nam Vực, Kiếm Tông lưng tựa Thập Vạn đại sơn, phía nam trông về đế quốc Đại Tần, kiến trúc chiếm liên tiếp hơn một nghìn dặm trong Huyền Không sơn. Huyền Không sơn có bảy đỉnh lớn, ba mươi sáu đỉnh nhỏ, trong đó Tạp Dịch phong là một trong vô số đỉnh nhỏ. Tạp Dịch phong, tên cũng như nghĩa, là nơi ở của các đệ tử tạp dịch.TuyTạp Dịch phong là nơi đệ tử tạp dịch ở, nhưng quy mô của nó có thể so sánh với một tòa thành nhỏ ba mươi mấy vạn người trong nước Đại Tần.Trời tờ mờ sáng, như thường lệ, Dương Diệp liền tỉnh dậy, rửa mặt đánh răng qua loa rồi cầm cái chổi sau cửa đi ra khỏi phòng.Nhìn một tia sáng trên trời, Dương Diệp hít một hơi thật sâu không khí tươi mát sáng sớm, một lát sau, trên gương mặt nhỏ nhắn non nớt của Diệp Dương tràn ngập kiên định, thấp giọng nói:- Cố gắng kiên trì, không từ bỏ!Nói xong, hắn bước nhanh về phía Thanh Phong cốc.- Các ngươi xem, kia không phải là đệ tử ngoại môn trước kia sao?- Thì ra là hắn, ngươi cũng biết đó chỉ là trước kia, hắn bây giờ chỉ là một tên đệ tử tạp dịch, quét rác giống chúng ta thôi.- Thật đáng tiếc, một tên trông thật tuấn tú! Bây giờ chắc tuổi của hắn cũng không quá mười sáu mười bảy nhỉ, ở tuổi này, đáng ra phải là tiền đồ vô lượng, đáng tiếc bây giờ lại là tạp dịch, đáng tiếc!- Nghe nói trước kia ở An Nam thành hắn được trưởng lão ngoại môn thu nhận làm đệ tử, ai mà biết được, hắn lại một năm không hấp thu được huyền khí, bị trưởng lão ngoại môn tức giận hạ xuống làm đệ tử tạp địch, còn được cái danh xưng đệ nhất phế vật của Kiếm Tông.- Đệ nhất phế vật Kiếm Tông, chậc chậc, cái danh xưng này vang dội đấy!Nghe thấy lời người xung quanh nói, Dương Diệp dừng bước chân, tay phải nắm chặt cây chổi, một lát sau, hắn hít một hơi thật sau, không để ý mấy người kia nữa, nhanh chân bước về Thanh Phong cốc.Thanh Phong cốc ở núi phía sau Tạp Dịch phong, do vài tòa núi nhỏ chân vạc kẹp chặt, ở giữa là đáy cốc lún xuống, trong cốc cỏ mọc um tùm, cỏ xanh như thảm, rất nhiều cây đại thụ chọc trời, cao vút, che khuất bầu trời. Nơi đây là chỗ đệ tử tạp dịch hái thuốc chặt củi mọi ngày, cũng là chỗ Dương Diệp tu luyện hàng ngày.Trên một tảng đá lớn, Dương Diệp tùy ý ném chổi sang một bên, sau đó ngồi trên tảng đá lớn, lấy ra một phong thư và một tượng đất nhỏ từ trong ngực, do hôm qua bận rộn cả ngày, hắn không có thời gian xem.Nhìn tượng đất nhỏ trong tay, trên gương mặt non nớt của Dương Diệp lộ ra nụ cười dịu dàng."
+    },
+    {
+      "id": "41",
+      "storyId": 14,
+      "chapterName": "Chapter 2",
+      "content": "Ở Tạp Dịch phong có một trường luyện võ rất lớn, áng chừng khoảng mấy trăm trượng, do đá lớn màu trắng xám tạo thành, cổ xưa uy nghiêm. Ở chính giữa quảng trường, một thanh thạch kiếm khổng lồ, cắm sừng sững ở đó.Trường luyện võ lớn trước mắt này là nơi bình thường các đệ tử ngoại môn tu luyện, cũng là nơi mà hôm nay Dương Diệp phải quét dọn. Một nơi rộng như vậy, đương nhiên không chỉ có một mình hắn quét dọn, đây là lượng công việc trong một ngày của ba người.Nếu là ngày hôm qua, có lẽ Dương Diệp sẽ oán trách vài câu, bởi vì một nơi rộng lớn thế này, ít nhất cần bốn người vất vả quét dọn một ngày mới xong, như vậy hắn sẽ không có thời gian tu luyện. Nhưng mà bây giờ, trong lòng hắn tràn đầy hy vọng, nhìn cái gì cũng thuận mắt.- Ôi, đây không phải là đệ nhất phế vật trong lịch sử của chúng ta sao? Ồ, không phải, là đệ tử ngoại môn của chúng ta, đệ tử ngoại môn của chúng ta dậy sớm thật đó, có phải đã quét dọn sạch trường luyện võ rồi không? Ha ha…Đúng lúc này, một tiếng cười mang theo sự mỉa mai từ một bên truyền tới.Nghe những lời mỉa mai này, Dương Diệp quay người nhìn ba người phía bên phải, ba người trước mắt là người quét dọn cùng hắn hôm nay. Nhìn vẻ mặt trêu tức của bọn họ, Dương Diệp mặt không biểu cảm, không nhìn ra vui buồn.Tên cầm đầu hắn có quen biết, tên là Đỗ Tu, cũng là đệ tử tạp dịch, có điều thanh danh của người này rất xấu, tuy là đệ tử tạp dịch, nhưng lại không bao giờ làm việc, đều để người khác làm việc của mình. Sở dĩ Đỗ Tu có thể nghênh ngang như thế là vì gã có một thúc thúc và biểu ca, thúc thúc gã là Từ quản sự của viện tạp dịch, Kiếm Tông có hơn hai ngàn đệ tử tạp dịch đều do Từ quản sự quản lí. Mà biểu ca gã lại là đệ tử ngoại môn."
+    },
+    {
+      "id": "42",
+      "storyId": 14,
+      "chapterName": "Chapter 3",
+      "content": "Cạnh một hồ nước trong Thanh Phong cốc, Dương Diệp xếp bằng ngồi trên đất, hai mắt khép hờ, tinh thần chìm vào trong cơ thể.Sau khi hết hưng phấn, Dương Diệp cảm thấy có chút không bình thường, hai cái đan điền, cái này thấy sai sai thế nào ấy, cho nên hắn quyết định nhìn cho rõ cái vòng xoáy nhỏ trong đan điền kia là như thế nào.Lần này hắn nhìn rõ ràng cái vòng xoáy nhỏ trong đan điền kia, nó chỉ lớn chừng bàn tay, không ngừng tỏa ra lực hút, cũng bởi vì lực hút này mà huyền khí mỗi lần hắn luyện ra đều bị hút vào vòng xoáy nhỏ trong nháy mắt.Cái vòng xoáy nhỏ này hút hết sạch huyền khí trong đan điền hắn, làm cho hắn không thể trở thành Huyền giả được, không, phải nói là rất lâu trước kia hắn cũng đã là Huyền giả rồi. Bởi vì có thể trở thành Huyền giả hay không chính là xem tư chất của người đó, nếu như có thể thông qua rèn luyện thân thể, hấp thu được huyền khí thì người này chính là một Huyền giả.Thế nhưng huyền khí của hắn vừa mới vào cơ thể đã bị vòng xoáy nhỏ hấp thu mất, làm cho đã qua một năm mà hắn cũng không trở thành Huyền giả được. Nhưng xét theo tiêu chuẩn trở thành Huyền giả thì trước đó hắn đã là một Huyền giả thật.Dương Diệp thử khống chế vòng xoáy nhỏ này, theo hắn nghĩ cái vòng xoáy nhỏ này nếu đã ở trong cơ thể hắn thì phải là thứ thuộc về hắn, chịu khống chế của hắn."
+    },
+    {
+      "id": "43",
+      "storyId": 15,
+      "chapterName": "Chapter 1",
+      "content": "Đông Vực Kiếm Ma tông Trên khoảng sân bên ngoài cổng tụ tập một đám người đông đúc. Đa số bọn họ đều mang vẻ kinh hãi trên khuôn mặt. \"Đây là đâu? Sao ta lại bị bắt tới nơi này?\" \"Dám bắt ta ư, mấy người có biết cha ta là ai không?\" \"Sao lại có nhiều người như vậy?\" Cảnh tượng hỗn loạn, tiếng ồn ào gì cũng có. Ngay vào lúc này. Một tiếng hừ lạnh vang lên. \"Câm miệng lại hết cho ta!!\" Cùng lúc này, một loại uy áp khiến người ta run rẩy đã bao phủ lên toàn bộ không gian, khiến tất cả bọn họ suýt chút nữa thì ngạt thở. Sau khi âm thanh vang lên, một người trung niên mặc áo bào màu xanh lam bước lên đài cao, nhìn xuống đám người đông như kiến. Ánh mắt của ông ta rất sắc nhọn, không một ai dám nhìn thẳng vào mắt ông ta. \"Đây là Kiếm Ma tông, nếu các người muốn sống thì hãy thành thật một chút cho ta!\" Ông ta lại mở miệng một lần nữa. Nhưng lời này vừa thốt ra. Đám đông phía dưới có gần một vạn người bình thường đều chết lặng. \"Kiếm Ma tông? Chính là cái ma giáo không chuyện ác gì không làm kia hay sao?\" \"Toi rồi, toi rồi! Ta còn trẻ như vậy mà đã phải chết rồi sao?\" \"Chắc không phải bọn chúng muốn dùng chúng ta để tu luyện tà pháp đấy chứ!\" \"Mẹ ơi, sao mà tôi đen đủi quá vậy.\" \"Chạy!!! Mau chóng chạy!\" \"Đúng, ta nhất định phải rời khỏi nơi này.\" Có vài kẻ tuyệt vọng ngồi bệt xuống đất, cũng có vài kẻ chạy tán loạn ra ngoài. Mà biểu cảm của người trung niên đứng trên đài cao kia không hề có bất cứ thay đổi nào. Ông ta chỉ nâng tay trái lên, khẽ phất một cái."
+    },
+    {
+      "id": "44",
+      "storyId": 15,
+      "chapterName": "Chapter 2",
+      "content": "Ngay cả hít thở cũng không dám hít thở mạnh. \"Ta đã nói rồi, muốn sống thì thành thật một chút, bây giờ xem ra các ngươi đã ngoan hơn nhiều rồi đấy, haha.\" Người trung niên cười lạnh, nói. Không một ai dám đáp lời ông ta. \"Ta biết mỗi một người trong các ngươi đều đang rất thắc mắc, tại sao lại bị bắt tới đây, nhưng cái này không quan trọng.\" \"Quan trọng là, đây chính là một cơ duyên của các ngươi.\" \"Tiếp theo đây, tất cả các ngươi đều đừng có phản kháng, ta sẽ tiến hành kiểm tra tư chất của các ngươi.\" \"Bất luận tư chất tốt hay kém, Kiếm Ma tông của ta đều sẽ đối xử tốt với các ngươi.\" Nói xong những lời này. Người trung niên lại phất tay trái. Gần một vạn tia bạch quang phát ra từ tay của ông ta, sau đó phi thẳng vào trong đám người. Điều này khiến đám người kia lại nháo nhào lên một lần nữa. Bọn họ tưởng người này nổi sát khí, muốn ra tay giết hết toàn bộ bọn họ. Nhưng tia bạch quang kia không hề làm tổn thương bọn họ, chỉ phủ lên người từng kẻ một. Thứ bạch quang này là…là một tấm ngọc phù. Ngọc phù sau khi dính lên người bọn họ, liền bắt đầu đổi sắc. Ngọc phù trên người của một vài kẻ thì đổi thành màu đỏ nhạt, có vài kẻ là màu đỏ đậm, còn có màu vàng nhạt, hoặc là màu vàng đất, vv…. Đây là chuyện gì vậy?? Trên khuôn mặt của gần một vạn kẻ đều là sự kinh hoảng, sợ hãi và nghi ngờ. Ba từ Kiếm Ma tông này đem lại sự sợ hãi quá mãnh liệt cho bọn họ. Nhưng trong đám người này, lại có một ánh mắt khác biệt hoàn toàn với người bình thường."
+    },
+    {
+      "id": "45",
+      "storyId": 15,
+      "chapterName": "Chapter 3",
+      "content": "Nhưng một là không có gia cảnh hậu thuẫn, hai là không có kiến thức, sau vài lần đâm đầu vào ngõ cụt, suýt nữa thì bị bọn buôn người lừa đi. Lâm Tiêu quyết định bình tĩnh lại, đi từng bước một. Thế giới này không phải là thời đại hòa bình gì, mà là nơi chỉ cần một lời không hợp là có thể giết người như ngóe rồi. Là thế giới mà nắm đấm to chính là lí lẽ, kẻ mạnh mới được tôn vinh. Nhưng điều khiến Lâm Tiêu không ngờ tới là. Lúc hắn chuẩn bị dùng nắm đấm mạnh mẽ tạo nên một truyền kỳ người phàm tu tiên. Thì hắn lại vô cớ ngất đi. Khi tỉnh lại một lần nữa, hắn đã cùng với đám gần một vạn người cùng nhau xuất hiện tại Kiếm Ma tông này. Cái tên Kiếm Ma tông này, vừa nghe đã biết không phải là chính phái. Còn có một màn người trung niên kia ra tay giết người không chút do dự ban nãy. Những điều này đều khiến Lâm Tiêu hiểu ra rằng, đây không phải là nơi để luận định đúng sai. Nhưng bất kể thế nào, hắn cũng coi như đã gia nhập một môn phái tu luyện. Đây phải chăng là một cơ duyên? \"Hahaha, trong đám người này vậy mà lại có hai kẻ có tư chất lục phẩm, khá lắm, khá lắm!!!\" Người trung niên cười lớn. Sau đó, ông ta ném cho hai kẻ có lục quang trên người hai tấm lệnh bài. \"Bắt đầu từ hôm nay, hai người các ngươi chính là đệ tử ngoại môn của Kiếm Ma tông ta.\" Hai kẻ đó tiếp nhận lệnh bài, khiếp sợ vì kinh ngạc, sau đó vui mừng không thôi. \"Cảm… cảm tạ đại nhân đã coi trọng.\" \"Cảm tạ đại nhân.\" Người trung niên phất tay, nói tiếp: \"Gọi ta là Trần trưởng lão được rồi.\" Hai kẻ đó một lần nữa cúi gập người cảm tạ. Không cần phải chết, còn có thể trở thành đệ tử ngoại môn chính thức của Kiếm Ma tông, thế này còn may mắn hơn cả chuyện tiền từ trên trời rơi xuống nữa. Những kẻ khác nhìn thấy cảnh này, chấn kinh và đồng thời cũng ngưỡng mộ vô cùng."
+    },
+    {
+      "id": "46",
+      "storyId": 16,
+      "chapterName": "Chapter 1",
+      "content": "\"Tần Tranh? Tại sao lại là đồ câm điếc nhà anh đến đón tôi chứ? Cổng đại học Lâm Thành, Sở Tử Đàn nhíu mày, vẻ mặt ghét bỏ nhìn người đàn ông trước mặt, sau đó cẩn thận nhìn xung quanh. \"Đi nhanh lên đi, nếu để bạn học tôi nhìn thấy thì tôi còn mặt mũi mà đi học tiếp sao? Nói rồi Sở Tử Đàn nhanh chân đi về trước. Tần Tranh mím miệng, lập tức đuổi theo Sở Tử Đàn. Hôm nay anh giúp vợ mình, Sở Hiểu Đồng đến đón Sở Tử Đàn tan học, bình thường đều là Sở Hiểu Đồng đến đón, nhưng hôm nay Sở Hiểu Đồng nói công ty có chút việc phải xử lí nên gửi tin nhắn nói anh đi. Lúc Tần Tranh đi theo Sở Tử Đàn về phía xe thì có ba nữ sinh sóng vai đi đến, thấy Tần Tranh đi cùng Sở Tử Đàn thì xông tới. Ôi, đây không phải là hoa khôi Sở Tử Đàn sao? Bước chân của Sở Tử Đàn dừng lại, sắc mặt lập tức thay đổi, cô ta liếc mắt nhìn Tần Tranh sau lưng, trong lòng vô cùng buồn bực. Điều cô ta sợ nhất chính là người khác nhìn thấy người anh rể câm điếc này của mình, kết quả vẫn bị thấy, quan trọng hơn nữa người thấy lại là nữ sinh không hợp với cô ta. Là mấy người sao, sao vậy? Khóe môi Sở Tử Đàn hơi nâng lên, miễn cưỡng cười nói. Không có gì, chào hỏi mà thôi. Trong ba nữ sinh có một nữ sinh tóc dài, cô ta cười lạnh. Ánh mắt nữ sinh tóc dài chậm rãi nhìn về phía Tần Tranh, mắt đột nhiên mở lớn, khoa trương nói: Ôi..., Tử Đàn, người này...!Không phải đây là anh rể câm điếc vô dụng ở rể một năm của cậu sao? Sao cậu lại mang người đến trường học của chúng ta luôn rồi? Sở Tử Đàn nổi giận, ánh mắt cũng trầm xuống: Liên quan gì đến cậu chứ, chó ngoan không cản đường, cút đi! Cô ta đẩy nữ sinh trước mặt ra, kéo tay Tần Tranh đến xe con, đóng cửa xe rầm một cái. Mau lái đi, còn muốn xem tôi làm trò cười tiếp sao? Sở Tử Đàn tức tối hét. Ngón tay Tần Tranh dừng lại, tiếp đó im lặng khởi động xe. Hai mắt Sở Tử Đàn nhắm chặt lại, nghe tiếng chế giễu loáng thoáng bên ngoài cửa xe, ngực lên xuống không ngừng."
+    },
+    {
+      "id": "47",
+      "storyId": 16,
+      "chapterName": "Chapter 2",
+      "content": "Tần Tranh không biết hai người này không hài lòng với mình, vẻ mặt vẫn lạnh nhạt như cũ, anh muốn đi đến ghế sopha ngồi. Cậu đứng đấy cho tôi! Hàn Anh quát chói tai, Tần Tranh hơi ngạc nhiên, khẽ nhíu mày nhưng cũng không phản kháng. Anh cảm thấy Hàn Anh là mẹ vợ mình. Nhà họ Sở đối với anh ân cao như núi, một vài lời quát lớn anh cũng sẽ xem như lời dạy dỗ nghiêm khắc của mẹ. Thấy Tần Tranh nghe lời, sắc mặt Hàn Anh lúc này mới tốt hơn. Bà ta còn chưa kịp lên tiếng lần nữa thì Lưu Minh Hạo đã sải bước đi đến trước mặt Tần Tranh. Hàn Anh nhìn sang, dáng người hai người không thua kém nhau là bao. Nhưng kì lạ là Tần Tranh trong quá khứ nhìn rất yếu ớt, bây giờ lại có cảm giác còn khí thế hơn cả Lưu Minh Hạo. Hàn Anh sững sờ, cho rằng mình chắc chắn hoa mắt rồi. Sở Tử Đàn đứng bên cạnh càng cảm thấy Tần Tranh như biến thành người khác hơn. Nhưng trong mắt Lưu Minh Hạo, Tần Tranh chỉ đang giả vờ bình tĩnh mà thôi. Mục đích tôi đến đây lần này là có hai chuyện. Lưu Minh Hạo nhìn Tần Tranh mỉm cười nói: Thứ nhất, nhìn người mà Hiểu Đồng gả là người như thế nào. Thứ hai, tôi sẽ xem tình hình mà đưa ra quyết định với người đó. Nghe được câu này, Tần Tranh vô cùng ngạc nhiên. Sao anh lại không biết từ khi nào mà hôn nhân của Tần Tranh anh cần một người ngoài đến để quyết định rồi? Dì, Hiểu Đồng là bạn chơi từ nhỏ đến lớn của cháu, cháu muốn nhìn thử xem chồng của cô ấy có thể mang đến hạnh phúc cho cô ấy không, dì sẽ không giận chứ? Lưu Minh Hạo nhìn Hàn Anh hỏi. Trong lòng Hàn Anh có chút không thoải mái, dù sao đây cũng là chuyện của nhà họ Sở, cho dù quan hệ của của Hiểu Đồng có tốt đi chăng nữa thì cũng chỉ là người ngoài."
+    },
+    {
+      "id": "48",
+      "storyId": 16,
+      "chapterName": "Chapter 3",
+      "content": "Sở Hiểu Đồng chẳng hề cảm thấy lời này có gì không ổn. Bởi vì từ sau khi Tần Tranh vào nhà cô, cô cũng thường nói những lời như vậy với Tần Tranh. Ngay khi những lời kia vừa thốt ra, tiếng cười chế giễu của người xung quanh càng lớn hơn. \"Một tên ăn của vợ, xài của vợ, vậy mà lại dõng dạc nói mình biết chữa bệnh? Thật nực cười.\" Người xung quanh lắc đầu cười nhạo. Mà lúc này, người phụ nữ nổi đầy mụn nhọt trên mặt cũng bực bội không thôi: “Tôi mặc kệ chuyện riêng của các người, dù sao hôm nay nếu các người không chữa khỏi mụn nhọt trên mặt tôi, thì phải bồi thường cho tôi 100 triệu!\" \"Bằng không, chỉ cần một câu của tôi, cả nhà các người đều cút hết ra khỏi Dương Thành cho tôi!\" Câu này của người phụ nữ khiến sắc mặt của đám người Sở Hiểu Đồng và Hàn Anh lập tức trắng bệch. Cút khỏi Dương Thành? Bọn họ vất vả lắm mới kiếm được mấy chục triệu ở Dương Thành, nếu ra khỏi Dương Thành, chẳng phải là phải làm lại từ đầu sao? \"Hiểu Đồng.\" Tần Tranh lên tiếng lần nữa: \"Ở đây không ai có thể chữa khỏi, trong nhà cũng không bỏ ra nổi 100 triệu, sao không để cho tôi thử một lần, cho dù như thế nào, cũng sẽ không tệ như hiện tại.\" Tần Tranh chắc chắn mình có thể chữa khỏi, năm đó khi anh học được những gì ông lão đã học cả đời, chỉ cần một tay y thuật liền xuất thần nhập hóa. Anh dám cam đoan, chỉ cần một vài loại thảo mộc, trộn lẫn và nghiền nát với nhau rồi đắp lên mặt người phụ nữ này, chưa đầy mười phút, nhất định có thể làm cho người phụ nữ này khôi phục như lúc ban đầu! Trong lòng của Sở Hiểu Đồng hơi dao động. Quả thực lời của Tần Tranh nói rất đúng, thế nhưng... \"Không được! Cậu căn bản không phải là bác sĩ, càng không có giấy phép hành nghề y, lỡ như cậu chữa chết người, nhà họ Sở của tôi chẳng phải sẽ chôn cùng cậu sao!\" Hàn Anh tiến lên một bước, cau mày quát lớn. \"Tần Tranh, dù cậu không muốn sống, thì cũng đừng kéo Hiểu Đồng theo! Nếu như cậu thật sự muốn chữa, vậy cậu thề với trời đi, lỡ cậu thất bại thì không liên quan gì đến nhà họ Sở cả, tất cả rủi ro sẽ do một mình cậu gánh chịu!\" Lưu Minh Hạo lạnh lùng mắng. Nghe được lời này, ánh mắt Tần Tranh bỗng chốc lạnh đi."
+    }
+  ],
+  "notification": [
+    {
+      "id": "1",
+      "userIds": [
+        "anhhung1",
+        "anhhung2"
+      ],
+      "content": "Truyện mà bạn đang quan tâm Mịch Tiên Kiếm Đạo đã ra mắt chương mới, cùng đọc ngay thôi nào !!!",
+      "storyId": 3,
+      "timeCreated": "2023-07-03",
+      "isRead": 1
+    },
+    {
+      "userIds": [
+        "anhhung1",
+        "anhhung2"
+      ],
+      "content": "Truyện mà bạn đang quan tâm Kẻ Phản Bội đã ra mắt chương mới, cùng đọc ngay thôi nào !!!",
+      "storyId": 1,
+      "timeCreated": "13-07-2023",
+      "isRead": 1,
+      "id": "2"
+    },
+    {
+      "userIds": [
+        "anhhung1",
+        "anhhung2"
+      ],
+      "content": "Truyện mà bạn đang quan tâm Kẻ Phản Bội đã ra mắt chương mới, cùng đọc ngay thôi nào !!!",
+      "storyId": 1,
+      "timeCreated": "13-07-2023",
+      "isRead": 1,
+      "id": "3"
+    },
+    {
+      "userIds": [
+        "anhhung1",
+        "anhhung2"
+      ],
+      "content": "Truyện mà bạn đang quan tâm Kẻ Phản Bội đã ra mắt chương mới, cùng đọc ngay thôi nào !!!",
+      "storyId": 1,
+      "timeCreated": "13-07-2023",
+      "isRead": 1,
+      "id": "4"
+    },
+    {
+      "userIds": [
+        "anhhung1",
+        "anhhung2"
+      ],
+      "content": "Truyện mà bạn đang quan tâm Kẻ Phản Bội đã ra mắt chương mới, cùng đọc ngay thôi nào !!!",
+      "storyId": 1,
+      "timeCreated": "13-07-2023",
+      "isRead": 1,
+      "id": "5"
+    },
+    {
+      "userIds": [
+        "anhhung1",
+        "anhhung2"
+      ],
+      "content": "Truyện mà bạn đang quan tâm Kẻ Phản Bội đã ra mắt chương mới, cùng đọc ngay thôi nào !!!",
+      "storyId": 1,
+      "timeCreated": "13-07-2023",
+      "isRead": 1,
+      "id": "6"
+    },
+    {
+      "userIds": [
+        "anhhung1",
+        "anhhung2"
+      ],
+      "content": "Cuoi quan tâm Kẻ Phản Bội đã ra mắt chương mới, cùng đọc ngay thôi nào !!!",
+      "storyId": 1,
+      "timeCreated": "13-07-2023",
+      "isRead": 1,
+      "id": "7"
+    },
+    {
+      "userIds": [
+        "anhhung1"
+      ],
+      "content": "Truyện mà bạn đang quan tâm Mịch Tiên Kiếm Đạo đã ra mắt chương mới, cùng đọc ngay thôi nào !!!",
+      "storyId": 3,
+      "timeCreated": "14-07-2023",
+      "isRead": 1,
+      "id": "8"
+    }
+  ],
+  "continueRead": [
+    {
+      "username": "anhhung2",
+      "storyId": "3",
+      "indexOfChapter": 1,
+      "id": "1"
+    },
+    {
+      "username": "anhhung2",
+      "storyId": "1",
+      "indexOfChapter": 1,
+      "id": "2"
+    }
+  ]
+}

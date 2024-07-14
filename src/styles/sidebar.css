@@ -1,0 +1,28 @@
+.wrapper_sidebar {
+
+}
+
+.item-sidebar {
+    height: 4rem;
+    border-radius: 0.2rem;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    background-color: gray;
+}
+
+
+.table-story {
+    width: 100%;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+
+
+
+
